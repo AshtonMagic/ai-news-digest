@@ -67,7 +67,9 @@ async function main() {
     }
   }
 
-  const today = new Date().toISOString().slice(0, 10);
+  const today = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Singapore",
+  }).format(new Date());
   const markdown = renderMarkdown(sorted, today);
 
   const outputDir = join(process.cwd(), "output");

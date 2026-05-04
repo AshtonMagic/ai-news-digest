@@ -62,4 +62,5 @@ jobs:
           publish_branch: digests
           publish_dir: ./output
           keep_files: true
+          enable_jekyll: true
           commit_message: "digest: scheduled run ${{ github.run_id }}"
