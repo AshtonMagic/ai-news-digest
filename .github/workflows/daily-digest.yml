@@ -1,0 +1,65 @@
+name: daily-digest
+
+on:
+  schedule:
+    # 21:30 UTC == 05:30 Asia/Singapore (UTC+8)
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch existing digests
+        uses: actions/checkout@v4
+        with:
+          ref: digests
+          path: existing-digests
+        continue-on-error: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Generate today's digest
+        run: npm start
+
+      - name: Merge history and build index
+        run: |
+          # Pull historical digests in (don't clobber today's freshly generated file).
+          if [ -d existing-digests ]; then
+            cp -n existing-digests/[0-9]*.md output/ 2>/dev/null || true
+          fi
+
+          cat > output/_config.yml <<'EOF'
+          title: AI 新闻日报
+          description: 每日 AI 行业新闻摘要（自动生成）
+          theme: jekyll-theme-cayman
+          EOF
+
+          {
+            echo "# AI 新闻日报"
+            echo ""
+            echo "每天新加坡时间 05:30 自动生成。共 $(ls output/[0-9]*.md 2>/dev/null | wc -l | tr -d ' ') 期。"
+            echo ""
+            for f in $(ls output/[0-9]*.md 2>/dev/null | sort -r); do
+              base=$(basename "$f" .md)
+              echo "- [$base]({{ site.baseurl }}/$base.html)"
+            done
+          } > output/index.md
+
+      - name: Publish to digests branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: digests
+          publish_dir: ./output
+          keep_files: true
+          commit_message: "digest: scheduled run ${{ github.run_id }}"
