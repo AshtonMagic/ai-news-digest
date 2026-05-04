@@ -2,6 +2,8 @@
 
 抓取多个 AI 相关 RSS 源，过滤最近 24 小时的文章，去重后生成 Markdown 日报。
 
+📰 **在线日报**：https://ashtonchen.github.io/ai-news-digest/ （每天新加坡时间 05:30 自动更新）
+
 ## 数据源
 
 - TechCrunch AI
