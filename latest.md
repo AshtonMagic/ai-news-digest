@@ -1,206 +1,58 @@
-# AI 新闻日报 · 2026-10-12
+# AI 新闻日报 · 2026-10-13
 
-> 共收录 36 篇，来自 3 个源（Hacker News · TechCrunch AI · The Verge AI）
-
----
-## 2026-10-11 23:47 · Hacker News
-### [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll)
-plimsoll runs untrusted code, such as code an AI agent wrote, inside a sandbox, and every result says how strong that sandbox was.
+> 共收录 9 篇，来自 2 个源（TechCrunch AI · The Verge AI）
 
 ---
-
-## 2026-10-11 23:14 · Hacker News
-### [Ask HN: What to Build in the AI Era?](https://news.ycombinator.com/item?id=50049047)
+## 2026-10-12 17:56 · TechCrunch AI
+### [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
+Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex…
 
 ---
 
-## 2026-10-11 23:09 · Hacker News
-### [AI is less regulated than milk, says Microsoft president](https://www.bbc.com/news/articles/c6rmy7zmvx3lo)
-1 hour agoMitchell LabiakBusiness reporterBloomberg via Getty ImagesMilk and washing machines are currently more regulated than AI, the president of Microsoft has said.
+## 2026-10-12 17:19 · TechCrunch AI
+### [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
+A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.
 
 ---
 
-## 2026-10-11 22:56 · Hacker News
-### [Show HN: Seodata.dev (1.1) Free search data for AI agents](https://www.seodata.dev/)
-Search datafor AI agents. Volume, CPC and competition for any keyword, in 50+ countries. 20 free lookups a day, no key.
+## 2026-10-12 17:00 · The Verge AI
+### [Meta has some Wonder Full new AI models](https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model)
+Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new model…
 
 ---
 
-## 2026-10-11 22:55 · Hacker News
-### [Calculate your p[DOOM], An interactive article to think critically about AI risk](https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4)
+## 2026-10-12 15:45 · TechCrunch AI
+### [Honeyjar offers AI tools to improve PR and comms at every company](https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/)
+Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?
 
 ---
 
-## 2026-10-11 22:46 · Hacker News
-### [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
-View PDF HTML (experimental) Abstract:Rapid progress in machine learning and artificial intelligence (AI) has brought increasing attention to the potential impacts of AI technologies on society.
+## 2026-10-12 15:31 · TechCrunch AI
+### [Microsoft president says UK is best placed to drive AI regulation](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)
+Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.
 
 ---
 
-## 2026-10-11 22:42 · Hacker News
-### [Show HN: Shpyrd – A new type of cloud for AI era](https://www.shpyrd.io)
-AI got your app working. We take it from there: we put it online behind a sign-in, and give it everything it needs to run, from its database to its backups.
+## 2026-10-12 15:27 · TechCrunch AI
+### [This AI startup says it can generate permit-ready blueprints in minutes](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)
+Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.
 
 ---
 
-## 2026-10-11 22:39 · Hacker News
-### [JulianFlux: Electrodynamic vector retrieval and causal routing for AI](https://github.com/julianjohnson-web/julianflux-research)
-JulianFlux 🧲: Electrodynamic Reasoning Infrastructure for AI Agents Autonomous AI Agents are failing in enterprise environments because standard Vector Databases (Pinecone, Milvus) act as static fili…
+## 2026-10-12 14:00 · TechCrunch AI
+### [TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/)
+Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an…
 
 ---
 
-## 2026-10-11 22:33 · Hacker News
-### [HPE Unveils the First of the Next Generation of ProLiants for the AI Era](https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808)
-It is impossible to miss the impact that the rapid adoption of AI continues to have on the datacenter infrastructure space and everything that goes with it – power consumption and costs, for example –…
+## 2026-10-12 13:00 · The Verge AI
+### [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)
+Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the "primary AI inference system" for Microsoft's products and services. Maia 300 not only improves the cost an…
 
 ---
 
-## 2026-10-11 22:28 · Hacker News
-### [Amazon in talks to buy AI startup Decart for around $7B, WSJ reports](https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/)
-
----
-
-## 2026-10-11 22:26 · Hacker News
-### [Jensen Huang thinks AI is going great](https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html)
-
----
-
-## 2026-10-11 22:16 · Hacker News
-### [Inside McDonald's push to have AI price your Big Mac](https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/)
-
----
-
-## 2026-10-11 22:12 · Hacker News
-### [AI Risk – Users Guide (Part V): Trust Is the Product](https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/)
-Let me highlight the underlying message from the posts in this series so far: with the single line I think matters more than every framework, every number, and every operating model I have walked thro…
-
----
-
-## 2026-10-11 21:59 · Hacker News
-### [Amazed and Disappointed by AI Troubleshooting](https://blog.miladibra.com/posts/amazed-and-disappointed-at-the-same-time/)
-Strange AlertI was ready to wrap up my day, but you can imagine what happened. An alert related to an important server fired!
-
----
-
-## 2026-10-11 21:56 · Hacker News
-### [How do you test AI-generated UIs without a visual baseline?](https://instantsite.app)
-AI website builder for real businessesInstantsite plans, writes and designs a complete website around your business, ready to customize and publish.
-
----
-
-## 2026-10-11 21:47 · Hacker News
-### [Botmail: A mailbox for every AI agent](https://botmail.pro/)
-b docsguidespricingsign in Your agent claims an address on botmail.pro, then sends, receives and replies over MCP or a REST API. You approve it with one click. > Read https://botmail.pro/skill.
-
----
-
-## 2026-10-11 21:34 · Hacker News
-### [CertusAI.dev, the living OS for physical AI](https://certusai.dev/)
-Certus joins NVIDIA Inception Read more → Supply chain, Compliance, & Finance on one living record. When the design changes, the evidence changes with it.
-
----
-
-## 2026-10-11 21:29 · Hacker News
-### [How the AI Boom Ends](https://www.wsj.com/opinion/how-the-ai-boom-ends-0d9d47e7)
-
----
-
-## 2026-10-11 21:27 · Hacker News
-### [Nuclear war and malicious use of AI threaten end of humanity by 2100, Lancet say](https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies)
-Global experts warn that today’s decisions across health, finance, climate, defense and security sectors will determine how many years of good health future generations gain – or lose – to preventable…
-
----
-
-## 2026-10-11 21:16 · Hacker News
-### [Ask HN: Pre-AI, did you think harder? Or are you thinking more (and better) now?](https://news.ycombinator.com/item?id=50047886)
-
----
-
-## 2026-10-11 21:14 · TechCrunch AI
-### [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
-Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.
-
----
-
-## 2026-10-11 21:13 · Hacker News
-### [There's No "Going Back": On the receding horizons of the AI transition](https://thelastwave.substack.com/p/theres-no-going-back)
-
----
-
-## 2026-10-11 20:35 · Hacker News
-### [OpenAI fires 3 safety researchers in dispute over AI risks](https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41)
-
----
-
-## 2026-10-11 20:30 · Hacker News
-### [Distorted Intelligence at the AI Frontier](https://www.project-syndicate.org/commentary/distorted-intelligence-training-byproduct-may-explain-ai-security-breaches-by-daron-acemoglu-2026-09)
-Innovation Sep 28, 2026 Daron Acemoglu The real problem for the frontier AI labs is not that their models are too powerful and already “misaligned” with the goals their creators set for them.
-
----
-
-## 2026-10-11 20:30 · Hacker News
-### [The Ghost in the Pipe: Giving AI agents direct access to a live Smalltalk image](https://medium.com/@paul_93782/the-ghost-in-the-pipe-e6643e2f08a4)
-
----
-
-## 2026-10-11 20:08 · Hacker News
-### [What happens inside AI Chip when you ask a question](https://www.youtube.com/watch?v=oBKrR3i6jWM)
-
----
-
-## 2026-10-11 19:57 · Hacker News
-### [Ask HN: How do swarms of AI agents work?](https://news.ycombinator.com/item?id=50047180)
-
----
-
-## 2026-10-11 19:55 · Hacker News
-### [Barnette's Conjecture proof AI explained](https://www.youtube.com/watch?v=mtU4op2kMWI)
-
----
-
-## 2026-10-11 19:43 · Hacker News
-### [Scoop: AI companies plot "day after" scenarios for public revolt](https://www.yahoo.com/news/politics/articles/scoop-ai-companies-plot-day-093011371.html)
-Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event.
-
----
-
-## 2026-10-11 19:26 · Hacker News
-### [Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen](https://www.bbc.com/news/articles/ck9dzpw4ll8po)
-3 days agoOsmond ChiaBusiness reporterFirmusArtificial intelligence (AI) data centre company Firmus has scrapped its plans for what would have been one of Australia's biggest-ever stock market listing…
-
----
-
-## 2026-10-11 19:12 · Hacker News
-### [The Acemoglu-GANs Exchange on AI](https://joshuagans.substack.com/p/the-acemoglu-gans-exchange-on-ai)
-
----
-
-## 2026-10-11 19:00 · TechCrunch AI
-### [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)
-Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals…
-
----
-
-## 2026-10-11 18:33 · The Verge AI
-### [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
-When President Donald Trump announced his plans to rebrand artificial intelligence as "super intelligence," you'd be forgiven for being skeptical that it would catch on. While most of the broader popu…
-
----
-
-## 2026-10-11 16:52 · TechCrunch AI
-### [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
-On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.
-
----
-
-## 2026-10-11 14:00 · TechCrunch AI
-### [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)
-Voice AI's often misses important points for its context layer, and causes the whole pipeline to break
-
----
-
-## 2026-10-11 11:00 · The Verge AI
-### [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)
-I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly p…
+## 2026-10-12 12:47 · TechCrunch AI
+### [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)
+One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan…
 
 ---
