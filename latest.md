@@ -1,321 +1,291 @@
-# AI 新闻日报 · 2026-10-14
+# AI 新闻日报 · 2026-10-15
 
-> 共收录 54 篇，来自 3 个源（Hacker News · TechCrunch AI · The Verge AI）
-
----
-## 2026-10-13 23:54 · Hacker News
-### [How well does AI predict humans?](https://simulacrabench.org/)
-NeurIPS 2026 · Competition Track SimulacraBench is a NeurIPS competition to validate AI representations of hard-to-reach populations, evaluated on unreleased UNHCR, UNICEF, and World Bank microdata.
+> 共收录 49 篇，来自 3 个源（Hacker News · The Verge AI · TechCrunch AI）
 
 ---
-
-## 2026-10-13 23:35 · Hacker News
-### [Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](https://github.com/RayenMlayeh/jevcrawl)
-Why jevcrawl Agents that browse a site have two bad options. They can read everything a crawler fetches, which buries the answer in navigation and boilerplate and burns tokens.
+## 2026-10-14 23:32 · Hacker News
+### [Chaos ensues when AI interviewer meets AI interviewee](https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144)
+REG AD offbeat Things got weird, but there's a lesson to be learned: Don't trust a bot to negotiate for you A YouTuber who’s gained a following for trolling AI interview bots brought his own computing…
 
 ---
 
-## 2026-10-13 23:28 · Hacker News
-### [AI's quiet safety gatekeepers are stepping into the spotlight](https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html)
-Co-founder and CEO of Anthropic Dario Amodei looks on as US President Donald Trump speaks to the press after a meeting with technology executives about artificial intelligence at the White House in Wa…
+## 2026-10-14 23:31 · Hacker News
+### [Ben Affleck Sold His AI Company for $587M [video]](https://www.youtube.com/watch?v=MzXEWrT3Ld8)
 
 ---
 
-## 2026-10-13 23:13 · TechCrunch AI
-### [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
-Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)…
+## 2026-10-14 23:25 · Hacker News
+### [Bank of America added 1k contractors to patch AI-exposed software flaws](https://runtimewire.com/article/bank-of-america-mythos-contractors-software-patching)
+security Bank of America CEO Brian Moynihan said the contractors joined in Q2 to patch flaws in internal and vendor software, amid risks from advanced AI models.
 
 ---
 
-## 2026-10-13 23:13 · Hacker News
-### [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
-“Local” usually means your data.Not your question.Your ledger sits on your disk. Then you ask something, and the question plus the rows that answer it go to a hosted model.Ask about your money.
+## 2026-10-14 23:21 · Hacker News
+### [TezGrid: AI inference on idle computers](https://tezgrid.com/)
+The computer is already in the room Idle computers can answer the API. A gaming PC after midnight. A Mac on the desk. An office machine after six. Someone already paid for it.
 
 ---
 
-## 2026-10-13 23:05 · TechCrunch AI
-### [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
-Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
+## 2026-10-14 23:10 · Hacker News
+### [Things we wish we'd known before building an AI chat agent](https://trigger.dev/blog/seven-tips-for-building-better-chat-agents)
+We built a chat agent to help our users in our developer dashboard (debug, make charts, get answers from docs etc.). Here are seven things we learned along the way.
 
 ---
 
-## 2026-10-13 23:00 · TechCrunch AI
-### [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)
-Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
+## 2026-10-14 23:06 · Hacker News
+### [ICE Wants to Use AI to Monitor Detainee Calls and Movements](https://www.washingtonsun.com/immigration/ice-ai-monitor-detainees)
+Immigration and Customs Enforcement is looking for an AI software that can monitor the phone and video calls and movements of immigrants at detention centers.
 
 ---
 
-## 2026-10-13 22:54 · Hacker News
-### [AI Face Rating – Discover Your Face Rating Free](https://face-rating.app/)
+## 2026-10-14 23:04 · Hacker News
+### [What If AI Is the End of the World?](https://www.theatlantic.com/ideas/2026/10/ai-end-of-world-meaning/688977/)
 
 ---
 
-## 2026-10-13 22:42 · Hacker News
-### [Quartz website mainly produced by one AI-assisted reporter](https://pressgazette.co.uk/publishers/digital-journalism/quartz-website-mainly-produced-by-one-ai-assisted-reporter-writing-50-stories-per-day/)
-Quartz feature was 100% written by AI according to Made By Humans Respected business title Quartz is using a single, hugely prolific journalist heavily aided by AI to produce nearly all its daily webs…
+## 2026-10-14 22:53 · The Verge AI
+### [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)
+Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The…
 
 ---
 
-## 2026-10-13 22:36 · TechCrunch AI
-### [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
-Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p…
+## 2026-10-14 22:43 · Hacker News
+### [Adobe Software Engineer Interview: Process, AI Rules and How to Prepare](https://nokku.payanai.com/interview-prep/adobe)
 
 ---
 
-## 2026-10-13 22:34 · Hacker News
-### [AI bubble could burst and take global economy with it, IMF warns](https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781)
-ai and ml Financial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache The International Monetary Fund (IMF) has become the latest financi…
+## 2026-10-14 22:30 · Hacker News
+### [Nvidia's China AI-chip share falls to 34% as Huawei reaches 28%](https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28/)
+Nvidia’s share of China’s data-center AI accelerator market fell to 34% in the first half of 2026, while Huawei reached 28%, according to an IDC report seen by Reuters.
 
 ---
 
-## 2026-10-13 22:27 · Hacker News
-### [Show HN: Sugabots – Group chats where your team and AI agents work together](https://sugabots.ai/)
-Sugabots is a place where people and agents can work together. Give each group its own agents, on the models you choose. It's also open-source.
+## 2026-10-14 22:30 · Hacker News
+### [Coding with AI stopped feeling like craft, so I built a tiny desk radio](https://radiowaveshare.vercel.app)
+Choose DIY, and wondering who the fuck you are on a Sunday morning AI changed coding and developer careers forever.
 
 ---
 
-## 2026-10-13 22:11 · Hacker News
-### [Investing in Short AI Timelines](https://cambrianmanagement.ai/)
-Thesis 01 / ThesisSeptember 2026 AGI is coming, yet hundreds of AI supply chain oligopolies still trade at only 1–5x revenue and 5–15x earnings.
+## 2026-10-14 22:26 · Hacker News
+### [Atelier – Watch AI Learn to Paint (Sometimes, Live)](https://atelier.randomdrake.com)
+AN ONGOING ART EXPERIMENTA little paint.A little looking.Another possibility.What happens when an AI has to pick up a brush, look at what it made, and decide what to do next?
 
 ---
 
-## 2026-10-13 21:24 · Hacker News
-### [Heterogeneity in AI: Pathways from Inference to Compound Systems (Dissertation)](https://doi.org/10.26153/tsw/64881)
+## 2026-10-14 22:18 · Hacker News
+### [Apple announces HomeView, a $299 smart display to push Siri AI into homes](https://www.cnn.com/2026/10/13/tech/apple-homeview-siri-ai)
+Apple on Tuesday announced the HomeView, its biggest push into the smart home market in nearly a decade.
 
 ---
 
-## 2026-10-13 21:19 · Hacker News
-### [Michael I. Jordan on AI: "Superintelligence is science fiction"](https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html)
+## 2026-10-14 21:44 · Hacker News
+### [The Art of Building AI Coding Agents: The book that builds itself](https://github.com/waywardgeek/ensemble)
+The Art of Building AI Coding Agents Second edition. An agentic codebook: build the agent, test the teaching, improve the book.
 
 ---
 
-## 2026-10-13 20:59 · Hacker News
-### [Surveys on AI and Writing](https://news.ycombinator.com/item?id=50078659)
+## 2026-10-14 21:30 · TechCrunch AI
+### [Flock CEO says its microphones detect ‘just gunshots’ — its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)
+Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.
 
 ---
 
-## 2026-10-13 20:47 · Hacker News
-### [The AI Curiosity Trap](https://plpxsk.github.io/2026/10/13/curiosity-trap.html)
-October 13, 2026 If you don’t know where you’re going, any path will get you there.
+## 2026-10-14 21:24 · Hacker News
+### [SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet](https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/)
+SoftBank Group Chairman and CEO Masayoshi Son's bets have a mixed track record — his investment in Chinese tech giant Alibaba was a major success, but he also directed $16 billion to Adam Neumann's We…
 
 ---
 
-## 2026-10-13 20:45 · The Verge AI
-### [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
-An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old…
+## 2026-10-14 21:22 · Hacker News
+### [I got $300K in startup credits for my AI company at 18: the playbook](https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea)
 
 ---
 
-## 2026-10-13 20:36 · TechCrunch AI
-### [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
-A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.
+## 2026-10-14 21:14 · Hacker News
+### [Steering AI Beyond Automation: A Research Agenda and Plan for Action](https://www.normaltech.ai/p/steering-ai-beyond-automation)
+By Gabriel Unger and Arvind Narayanan. Unger is an economist at Stanford’s Digital Economy Lab.
 
 ---
 
-## 2026-10-13 19:50 · Hacker News
-### [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)
-Existing benchmarks measure solve rate and cost, but don't punish excess code, which makes a codebase harder to work with in the long term. Parsimony measures how much code AI models add.
+## 2026-10-14 21:11 · The Verge AI
+### [Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)
+OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsu…
 
 ---
 
-## 2026-10-13 19:42 · The Verge AI
-### [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)
-More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configur…
+## 2026-10-14 21:08 · Hacker News
+### [Man sentenced to 18 months for AI music scam](https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music)
 
 ---
 
-## 2026-10-13 19:33 · Hacker News
-### [The UAE embraces AI for kindergartners](https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/)
-In September, Henry Price observed a classroom of 7- to 8-year-olds learn about the Stone Age. They discussed and wrote about cave paintings, then put on virtual reality headsets to explore them.
+## 2026-10-14 20:53 · Hacker News
+### [Veda – An AI-Native Operating System Built from the Ground Up](https://github.com/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4)
+@@ -16,7 +16,7 @@ cryptography (smoltcp, rustls, RustCrypto), image codecs (zune, qoi,1616fast_image_resize) and math (libm, glam, rand). Veda runs on x86-64 PCs1717and in QEMU.181819-!
 
 ---
 
-## 2026-10-13 19:25 · Hacker News
-### [Show HN: CoreXTrader – A cross-platform Trading DSL and Voice AI terminal](https://corextrader.com)
-Professional Trading PlatformCoreXTrader: Not Just Trading —A Revolution in Market IntelligenceA comprehensive trading platform with custom strategy development, advanced analytics, and seamless marke…
+## 2026-10-14 20:23 · Hacker News
+### [The AI labor apocalypse is on hold (for now)](https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html)
+There are three versions of Saint John’s Book of the Apocalypse, a text that never loses relevance and now seems to presage the impacts of artificial intelligence (AI).
 
 ---
 
-## 2026-10-13 19:24 · Hacker News
-### [AI Dividend: Economy of the Near Future](https://robotpaidmoose.com/)
-Universal basic income, one transaction at a time $3,000 AI Dividend each month. Watch it pay for itself. What if we taxed robots and AI agents so everyone shared in the rewards?
+## 2026-10-14 20:14 · Hacker News
+### [Making 3D Model with Meta Oakley AI Glasses and Digital Tape Measure [video]](https://www.youtube.com/shorts/g2mN4-uiW58)
 
 ---
 
-## 2026-10-13 19:09 · Hacker News
-### [Ask HN: In the new AI world, what's the best way to review code?](https://news.ycombinator.com/item?id=50076985)
+## 2026-10-14 20:09 · Hacker News
+### [AI systems are improving rapidly at Slay the Spire and its sequel](https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel)
+OverviewSlay the Spire (StS1) and its recent sequel, Slay the Spire 2 (StS2), are difficult games. Since the original’s release in 2017, the game has attracted a dedicated community of players.
 
 ---
 
-## 2026-10-13 19:00 · The Verge AI
-### [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)
-Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games…
+## 2026-10-14 19:54 · Hacker News
+### [We should reject AI in academia](https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/)
+7 October 2026 I just woke up and discovered that OpenAI has finally released those mathematical “results” they’ve been bragging about lately.
 
 ---
 
-## 2026-10-13 18:51 · Hacker News
-### [Sakana AI – Building Frontier AI in Japan](https://sakana.ai/)
-Building Frontier AI in Japan Scroll Frontier AI the world can rely on Sakana Fugu One model that orchestrates the world's best LLMs Pareto Frontier Orchestrate models to push the Pareto Frontier of c…
+## 2026-10-14 19:52 · Hacker News
+### [Show HN: Checkobot – Detect Deepfakes and AI Images](https://checkobot.ai)
+Free AI image detectorShow Checko a photo. It looks for AI generation, AI edits and face swaps, then tells you what it found and why.3 free checks a day, no sign-up.
 
 ---
 
-## 2026-10-13 18:50 · Hacker News
-### [AI distrust is GitHub's opportunity](https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html)
-Developers have never been more inclined to use AI, yet never less inclined to trust its output.
+## 2026-10-14 19:51 · Hacker News
+### [Show HN: OSS AI engineering telemetry without collecting prompts or code](https://github.com/ascendaone-com/ai-engineer-tools)
+Building internal observability for AI coding agents? Start here. Open-source collectors for Claude Code, Codex, Cursor, Gemini CLI and Windsurf, plus an editor extension for VS Code and Cursor.
 
 ---
 
-## 2026-10-13 18:44 · Hacker News
-### [AI 3D Prints: Are Claude's Defaults Enough?](https://www.youtube.com/watch?v=qcWOvPLFXgg)
+## 2026-10-14 19:37 · Hacker News
+### [AI agents overstate their results and remain far from autonomous](https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-)
+Home/CX News/AIAI · 12 October 2026Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.
 
 ---
 
-## 2026-10-13 18:34 · Hacker News
-### [Show HN: Commit-Aware Router, route LLM traffic around your AI/cloud commitments](https://github.com/tejaspruthi/CommitAwareRouter)
-Commit-Aware Router A routing layer for organizations that want AI traffic decisions to reflect the commitments they've already made.
+## 2026-10-14 19:35 · Hacker News
+### [Show HN: AI Interview Index – which companies allow AI in coding interviews](https://aiinterviewindex.com)
+AnthropicLive interviews are AI-free unless stated; some take-homes explicitly allow it.Live interviews are AI-free unless stated; some take-homes explicitly allow it.
 
 ---
 
-## 2026-10-13 18:31 · Hacker News
-### [Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync](https://github.com/scarletkc/Hatoba)
-Open-source desktop SSH client with an AI assistant and end-to-end encrypted sync through your own Cloudflare account Website | Download | Documentation Hatoba keeps your hosts, keys, and terminal ses…
+## 2026-10-14 19:34 · Hacker News
+### [AI safety money floods into politics](https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million)
 
 ---
 
-## 2026-10-13 18:30 · TechCrunch AI
-### [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/)
-Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.
+## 2026-10-14 19:26 · Hacker News
+### [Why Does AI Write Like Yoda?](https://www.oreilly.com/radar/why-does-ai-write-like-yoda/)
+I use AI for writing all the time. But not because it’s good at writing.In fact, just the opposite is true.
 
 ---
 
-## 2026-10-13 18:22 · Hacker News
-### [Character.ai Files for Bankruptcy](https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown)
-by Xiolene Lozano | Oct 13, 2026 Photo Source: Ascannio / Shutterstock.com Character.
+## 2026-10-14 19:18 · Hacker News
+### [AI sector wipeout risks global financial contagion, IMF report warns](https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans)
+Join for quick access. Enter your email below and we'll send confirmation plus sign you up to our newsletter.
 
 ---
 
-## 2026-10-13 18:18 · Hacker News
-### [Zen and the Art of AI-Assisted Development](https://blog.thanethomson.com/2026/10/13/zen-and-the-art-of-ai-assisted-development/)
-There's been something missing for me from the majority of conversations around AI-assisted development: a focus on quality. I don't mean quality of software output (that's important too).
+## 2026-10-14 19:18 · Hacker News
+### [Show HN: Run AI-generated logic safely inside your app](https://stof.dev/)
+Run AI-generated logic safely, inside your app.Stof is JSON with functions.
 
 ---
 
-## 2026-10-13 18:15 · Hacker News
-### [Kroger to lay off 3K corporate employees over 3 years as it leans into AI](https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598)
-Grocery store chain Kroger says it will lay off 3,000 corporate employees over the next three years as it ramps up its use of artificial intelligence to streamline operationsGrocery store chain Kroger…
+## 2026-10-14 19:06 · The Verge AI
+### [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)
+Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind,…
 
 ---
 
-## 2026-10-13 18:12 · Hacker News
-### [Scaledown.ai Launches Constrained Decoding Models](https://twitter.com/neal_k_patel/status/2109978626124898587)
-You already gave the LLM the answer. So why is it writing it out from scratch? Introducing a new AI model architecture: Constrained Decoding Models (CDMs) LLMs were built to write.
+## 2026-10-14 18:47 · The Verge AI
+### [Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy)
+New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy procee…
 
 ---
 
-## 2026-10-13 18:05 · TechCrunch AI
-### [Facebook is giving users more control over their algorithm](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/)
-Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.
+## 2026-10-14 18:23 · TechCrunch AI
+### [YouTube Music launches new labels as AI-generated music floods streaming platforms](https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/)
+The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.
 
 ---
 
-## 2026-10-13 18:02 · Hacker News
-### [I Sent an AI to My Job Interview. So Did the Company. [video]](https://www.youtube.com/watch?v=A0fECnj5sas)
+## 2026-10-14 18:22 · The Verge AI
+### [YouTube sticks new labels on AI-generated songs](https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label)
+YouTube is adding a "Made with AI" label to tracks that were "altered or fully generated" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound l…
 
 ---
 
-## 2026-10-13 18:00 · The Verge AI
-### [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
-The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte…
+## 2026-10-14 18:00 · TechCrunch AI
+### [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/)
+Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.
 
 ---
 
-## 2026-10-13 17:30 · TechCrunch AI
-### [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)
-University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in…
+## 2026-10-14 17:00 · The Verge AI
+### [My AI doppelganger tells me what to eat](https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health)
+This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for…
 
 ---
 
-## 2026-10-13 17:18 · TechCrunch AI
-### [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
-The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h…
+## 2026-10-14 16:43 · The Verge AI
+### [OpenAI claims an ex-employee took its product plans and presented them to Apple](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans)
+OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this inform…
 
 ---
 
-## 2026-10-13 17:01 · The Verge AI
-### [Facebook will let you customize your feed algorithm using AI](https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai)
-Facebook's new "Your Algorithm" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations "respond right away" after you make…
+## 2026-10-14 16:05 · The Verge AI
+### [Microsoft has a new machine learning tool to improve weather forecasts](https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft)
+Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with…
 
 ---
 
-## 2026-10-13 17:00 · TechCrunch AI
-### [Google Play now lets anyone build private, vibe-coded apps that run on Android](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
-Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.
+## 2026-10-14 16:00 · The Verge AI
+### [Square’s new kiosk lets you talk to AI for help with your order](https://www.theverge.com/tech/1009086/square-kiosk)
+Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape,…
 
 ---
 
-## 2026-10-13 17:00 · The Verge AI
-### [Google makes it easier to launch your vibe-coded apps](https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch)
-The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow…
+## 2026-10-14 16:00 · The Verge AI
+### [Android is using AI to suss out scammers in Google Messages](https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages)
+Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Buildi…
 
 ---
 
-## 2026-10-13 16:42 · The Verge AI
-### [It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps](https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce)
-Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark -…
+## 2026-10-14 15:16 · TechCrunch AI
+### [Deezer will soon let you filter out AI-generated music](https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/)
+Deezer said that the new toggle will be rolled out by the end of the year.
 
 ---
 
-## 2026-10-13 16:30 · TechCrunch AI
-### [SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
-Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.
+## 2026-10-14 15:13 · TechCrunch AI
+### [Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West](https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/)
+Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar…
 
 ---
 
-## 2026-10-13 16:00 · The Verge AI
-### [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
-After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Googl…
+## 2026-10-14 15:08 · TechCrunch AI
+### [Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace](https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/)
+Zenzap is used by organizations including Starbucks and Taco Bell.
 
 ---
 
-## 2026-10-13 15:12 · The Verge AI
-### [Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game](https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art)
-Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's dev…
+## 2026-10-14 15:00 · TechCrunch AI
+### [Floqer’s AI agents research sales prospects so teams don’t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/)
+The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.
 
 ---
 
-## 2026-10-13 14:00 · TechCrunch AI
-### [TechCrunch Disrupt 2026: Day 1](https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/)
-TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at…
+## 2026-10-14 14:30 · TechCrunch AI
+### [TechCrunch Disrupt 2026: Day 2](https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/)
+Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.
 
 ---
 
-## 2026-10-13 13:55 · The Verge AI
-### [DLSS 5 gets toned down for its Hogwarts Legacy debut next month](https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements)
-When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how fa…
-
----
-
-## 2026-10-13 13:50 · TechCrunch AI
-### [SpaceXSI bundles X Premium, Grok, and Cursor into one subscription](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)
-The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.
-
----
-
-## 2026-10-13 13:28 · TechCrunch AI
-### [The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/)
-The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.
-
----
-
-## 2026-10-13 13:00 · TechCrunch AI
-### [Amex introduces a framework to prevent AI agents from making unauthorized purchases](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)
-American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping…
-
----
-
-## 2026-10-13 12:23 · TechCrunch AI
-### [Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/)
-The startup will sell some of its assets to Disney for $20 million.
+## 2026-10-14 11:00 · TechCrunch AI
+### [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
+Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.
 
 ---
