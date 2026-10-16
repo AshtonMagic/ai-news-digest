@@ -1,142 +1,239 @@
-# AI 新闻日报 · 2026-10-16
+# AI 新闻日报 · 2026-10-17
 
-> 共收录 23 篇，来自 2 个源（TechCrunch AI · The Verge AI）
-
----
-## 2026-10-15 23:44 · TechCrunch AI
-### [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
-The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.
+> 共收录 41 篇，来自 3 个源（Hacker News · TechCrunch AI · The Verge AI）
 
 ---
-
-## 2026-10-15 21:39 · The Verge AI
-### [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
-Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So…
+## 2026-10-16 23:27 · Hacker News
+### [PcapAnalyzer – self-hosted pcap analyzer with AI diagnosis (€5)](https://claude.ai/artifact/NAX5Yw8wfuP86odEKtS7uv)
+Content is user-generated and unverified.
 
 ---
 
-## 2026-10-15 21:09 · The Verge AI
-### [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)
-President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White H…
+## 2026-10-16 22:53 · Hacker News
+### [Puzzles and the AI Software Glut](https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/)
+I have been making and publishing puzzles online for over twenty years at krazydad.com (this very website).
 
 ---
 
-## 2026-10-15 20:04 · TechCrunch AI
-### [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)
-Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.
+## 2026-10-16 22:46 · Hacker News
+### [Show HN: Ozil AI – Turn one photo into the viral Ozil goal video](https://ozilai.net/)
+One photo. One chip. One empty net.You, scoring the viral Ozil goal, set to the trend's music.
 
 ---
 
-## 2026-10-15 19:57 · The Verge AI
-### [Bluesky&#8217;s AI tool now lets you make games and apps to share on social](https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps)
-Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make "small" social apps like games, polls, and dashboards that you can the…
+## 2026-10-16 22:27 · Hacker News
+### [The AI Expectations Gap](https://www.anthropic.com/research/ai-expectations-gap)
+Szymon Sacher, Tess Cotter, Charles I.
 
 ---
 
-## 2026-10-15 19:55 · TechCrunch AI
-### [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
-Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.
+## 2026-10-16 22:25 · Hacker News
+### [How worried should we be about extinction risk from AI?](https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/)
+A little over two months ago, Jacob Tsimerman surprised a lot of people by announcing, immediately after he had received a Fields Medal, that he would be giving up mathematical research and “pivoting…
 
 ---
 
-## 2026-10-15 19:14 · TechCrunch AI
-### [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)
-METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.
+## 2026-10-16 22:13 · Hacker News
+### [Building an AI harness for intelligence analysis](https://dfaram7.github.io/harness-for-analysis/)
+October 2026 The failures we met putting large language models through the production of intelligence reports, the controls we built in response, and what we learned from testing them.
 
 ---
 
-## 2026-10-15 18:56 · TechCrunch AI
-### [Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/)
-Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a…
+## 2026-10-16 22:08 · Hacker News
+### [Ask HN: Social network with AI agents – why bad, why good?](https://news.ycombinator.com/item?id=50125397)
 
 ---
 
-## 2026-10-15 18:15 · The Verge AI
-### [Meta and Apple team up to make Muse AI models run better on Macs](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx)
-Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that can "…
+## 2026-10-16 22:03 · Hacker News
+### [Anthropic pitches its own AI safety bill to lawmakers](https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654)
 
 ---
 
-## 2026-10-15 18:00 · TechCrunch AI
-### [Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16](https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/)
-Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa…
+## 2026-10-16 21:58 · Hacker News
+### [Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator](https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/)
+This article was produced in collaboration with Court Watch, an independent outlet that unearths overlooked court records. Subscribe to them here.
 
 ---
 
-## 2026-10-15 16:21 · The Verge AI
-### [Friends don&#8217;t let friends feed their data to AI agents](https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent)
-There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the adve…
+## 2026-10-16 21:57 · Hacker News
+### [AI Agent Hacked into Crypto Wallet and Stole Funds, OpenAI Says](https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980)
 
 ---
 
-## 2026-10-15 15:02 · TechCrunch AI
-### [AI agents are coming to Rivian’s cars](https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/)
-We'll likely learn more about how this will work at the company's upcoming "AI &#038; Autonomy Day" event in December.
+## 2026-10-16 21:48 · Hacker News
+### [Assessing AI agents at autonomous theoretical physics problem solving](https://arxiv.org/abs/2610.16733)
+Authors:A. Ramesh Chandra, Aaghaz Mahajan, Ainesh Sanyal, Mianqi Wang, Shubhadeep Chakraborty, Sudip Chakraborty, Shailesh Chandrasekharan, Rama Govindarajan, Akshit Goyal, Jonathan J.
 
 ---
 
-## 2026-10-15 14:30 · The Verge AI
-### [How Windows is being optimized for Nvidia’s RTX Spark laptops](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad)
-Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area…
+## 2026-10-16 21:22 · TechCrunch AI
+### [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
+Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with…
 
 ---
 
-## 2026-10-15 14:29 · TechCrunch AI
-### [Google’s Universal Cart shopping tool launches in the US](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/)
-The new shopping tool is available in the U.S. across Google Search and the Gemini app.
+## 2026-10-16 20:49 · Hacker News
+### [AI Vibe-Coding Just Hit the Video Game Industry Like an Avalanche](https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366)
+If you’re sick of hearing the words “vibe-coded” and “Claude,” trust me, you’re not alone.
 
 ---
 
-## 2026-10-15 14:03 · The Verge AI
-### [Nobody is safe from celebrity AI deepfakes](https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth)
-In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in…
+## 2026-10-16 20:20 · Hacker News
+### [Freezing in the Face of AI](https://precious.bearblog.dev/fear/)
+Fear Home Blog 16 Oct, 2026 In many ways, my world ended in 2023.
 
 ---
 
-## 2026-10-15 14:00 · TechCrunch AI
-### [TechCrunch Disrupt 2026: Last day](https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/)
-Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.
+## 2026-10-16 20:16 · Hacker News
+### [Fractional CTO'ing and AI Sandboxing [video]](https://www.youtube.com/watch?v=hzshcVNNrYg)
 
 ---
 
-## 2026-10-15 14:00 · The Verge AI
-### [Benn Jordan on Flock, privacy, and the new surveillance backlash](https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy)
-Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental mus…
+## 2026-10-16 20:15 · Hacker News
+### [The future of AI software is here – it's just not evenly distributed](https://thelastsoftwareengineer.substack.com/p/the-future-of-ai-software-is-already)
 
 ---
 
-## 2026-10-15 13:00 · The Verge AI
-### [Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays](https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch)
-Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May…
+## 2026-10-16 20:00 · Hacker News
+### [AI creates 16 new viruses from scratch](https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages)
+Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study.
 
 ---
 
-## 2026-10-15 12:00 · TechCrunch AI
-### [Amazon’s Bee launches two new personal AI devices, starting at $75](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/)
-Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con…
+## 2026-10-16 19:43 · Hacker News
+### [Emu Concept – Make AI Follows Your Rules. (Feedback Wanted)](https://news.ycombinator.com/item?id=50123524)
 
 ---
 
-## 2026-10-15 12:00 · The Verge AI
-### [Amazon’s always-listening Bee wearable can now help you buy stuff](https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs)
-Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee dev…
+## 2026-10-16 19:37 · Hacker News
+### [Taco Bell drive-thru AI bot increased employee retention by making jobs easier](https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/)
+As Americans continue to oppose the AI buildout, Yum! Brands is reckoning with the dissonance between this opposition and the technology’s benefits for workers within the company.
 
 ---
 
-## 2026-10-15 04:30 · TechCrunch AI
-### [Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
-Figma is also releasing its code layers feature in open beta.
+## 2026-10-16 19:27 · Hacker News
+### [Mathematical Foundations of Generative AI, IISc Bangalore](https://nptel.ac.in/courses/106108004)
+NOC: Mathematical Foundations of Generative AI, IISc Bangalore Prof. Prathosh A. P about coursedownloadsTA liststatisticstoppers listcertificate type Syllabus Loading about course data...
 
 ---
 
-## 2026-10-15 01:01 · TechCrunch AI
-### [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)
-The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des…
+## 2026-10-16 19:18 · Hacker News
+### [How to Avoid AI Brain Rot](https://twitter.com/MilesCranmer/status/2111105654211608847)
+PostLog inSign upPostLog inSign upMiles Cranmer on X: "Here is the full talk:"Miles Cranmer@MilesCranmerHere is the full talk:00:00Miles Cranmer@MilesCranmerOct 15Had fun writing this talk for our MPh…
 
 ---
 
-## 2026-10-15 00:00 · TechCrunch AI
-### [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/)
-Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it…
+## 2026-10-16 19:09 · Hacker News
+### [Fail Closed: Human-AI Research Without Pretending to Know](https://www.amazon.com/dp/B0HMJWK5L8)
+AI can be brilliant, fast — and convincingly wrong.
+
+---
+
+## 2026-10-16 19:04 · Hacker News
+### [Prisov – Private AI for Enterprise Workflows [video]](https://www.youtube.com/watch?v=9SyK9l8wi2A)
+
+---
+
+## 2026-10-16 18:54 · Hacker News
+### [Show HN: Weatherdeck – a read-only status board for AI coding agent lanes](https://github.com/Moshik21/weatherdeck)
+Weatherdeck is a status board for machines and the work running on them (a TV or phone page fed by small pushers), not a weather app and not a monitoring or alerting system. What you see.
+
+---
+
+## 2026-10-16 18:53 · Hacker News
+### [Rogue AI agents broke into Indian firms' live systems](https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/)
+
+---
+
+## 2026-10-16 18:48 · Hacker News
+### [What will the next generation of developers do when AI writes the code?](https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/)
+Microsoft and Carnegie Mellon University are betting that the junior developers we train today will be the senior engineers of tomorrow.
+
+---
+
+## 2026-10-16 18:44 · Hacker News
+### [Works on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1](https://www.heise.de/en/news/Works-on-iPhone-18-Pro-AI-helps-create-untethered-jailbreak-for-iOS-27-0-1-11490907.html)
+At the Hexacon security conference in Paris, the Calif.io team presented the first jailbreak for iOS 27 — and it’s a significant one. A talk demonstrated that it works on versions up to iOS 27.0.
+
+---
+
+## 2026-10-16 18:25 · Hacker News
+### [Show HN: Camera Controls and Motion for AI Video Prompts](https://www.kapwing.com/ai/prompt-generator/camera)
+Kapwing / AI Prompting GuidesAI CameraControlsWhere the camera sits, how much it sees and how it moves decide whether an AI clip feels directed or random.
+
+---
+
+## 2026-10-16 18:25 · Hacker News
+### [China moves to curb tech exports, including AI, citing national security risks](https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b)
+
+---
+
+## 2026-10-16 18:07 · Hacker News
+### [American Medical Association releases governance framework for agentic AI](https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/)
+
+---
+
+## 2026-10-16 18:04 · Hacker News
+### [Citi becomes latest US bank to restrict AI agents from accessing accounts](https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91)
+
+---
+
+## 2026-10-16 17:52 · TechCrunch AI
+### [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
+The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
+
+---
+
+## 2026-10-16 16:30 · TechCrunch AI
+### [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
+Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic…
+
+---
+
+## 2026-10-16 16:30 · TechCrunch AI
+### [Physical AI is more than robots, says the Nvidia veteran now investing in it](https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/)
+Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic…
+
+---
+
+## 2026-10-16 16:01 · TechCrunch AI
+### [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
+According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.
+
+---
+
+## 2026-10-16 15:33 · TechCrunch AI
+### [Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
+The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.
+
+---
+
+## 2026-10-16 15:00 · The Verge AI
+### [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions)
+Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new "superchip." RTX Spark is designed to be a high-perf…
+
+---
+
+## 2026-10-16 14:26 · TechCrunch AI
+### [Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/)
+Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."
+
+---
+
+## 2026-10-16 14:02 · The Verge AI
+### [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers)
+Meta's new terms appear to give it permission to crawl and scrape websites "associated" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.…
+
+---
+
+## 2026-10-16 14:00 · TechCrunch AI
+### [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/)
+Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip th…
+
+---
+
+## 2026-10-16 12:55 · TechCrunch AI
+### [Replit’s CEO says the future of work is the ‘self-driving company’](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/)
+Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.
 
 ---
