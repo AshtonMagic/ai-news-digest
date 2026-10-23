@@ -1,303 +1,245 @@
-# AI 新闻日报 · 2026-10-23
+# AI 新闻日报 · 2026-10-24
 
-> 共收录 51 篇，来自 3 个源（Hacker News · TechCrunch AI · The Verge AI）
-
----
-## 2026-10-22 23:45 · Hacker News
-### [AI compute is the new oil–and needs a new market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market)
+> 共收录 41 篇，来自 3 个源（Hacker News · TechCrunch AI · The Verge AI）
 
 ---
-
-## 2026-10-22 23:28 · Hacker News
-### [The Next Bottleneck in AI for Science](https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science)
-Google, Google DeepMind, and MIT FutureTech recently published a study, AI in Science: Early Insights, to understand AI’s impact on science so far.
+## 2026-10-23 23:46 · Hacker News
+### [Blue Planet III features cloudier footage to prove authenticity amid AI boom](https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom)
+The David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.
 
 ---
 
-## 2026-10-22 23:11 · Hacker News
-### [US appeals court ejects judge from case over AI errors](https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22/)
+## 2026-10-23 23:31 · Hacker News
+### [Soma – memory and proofs for AI agents, measured not asserted](https://github.com/mrpkk/soma-protocol)
+One protocol for agents to trust each other, remember together, and pay for what they do. Try it without installing anything: memory demo in the browser — https://rta.lat/hub/demo/recall?
 
 ---
 
-## 2026-10-22 23:07 · Hacker News
-### [AI Is Changing Everything About Hacking. No One Knows What Happens Next](https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/)
-For much of the last month, many of the cybersecurity experts I talk to and follow have been posting like they are very scared.
+## 2026-10-23 23:17 · Hacker News
+### [Using AI to clean your smart TV](https://github.com/Gathin23/cleanyourtv)
+AiPro2K (Expressluck, dongnae; Changhong AI PONT family) Android TV 14 AIWA AI PONT SA (Changhong, osaka, ISDB86AW) Google TV 14 Amazon Fire TV, AFTDEC012E (ginza), Android 11 Fire OS / Android 11 Ama…
 
 ---
 
-## 2026-10-22 22:41 · Hacker News
-### [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
-One of the most frequently asked questions we get is how we deploy large models on Cerebras wafer-scale chips.
+## 2026-10-23 23:11 · Hacker News
+### [Show HN: AI Crash Debugging Gauntlet](https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet)
+ForensicDbg has been built from the ground up to be the best post-mortem debugger for Windows developers, no matter what workflows they use.
 
 ---
 
-## 2026-10-22 22:09 · Hacker News
-### [The $300k Competition to Hijack AI Agents](https://www.aiengineering.report/p/inside-the-300k-competition-to-hijack)
-I frequently use Claude to scan my emails for things that I might have missed or forgotten to follow up on.
+## 2026-10-23 23:10 · Hacker News
+### [AgentProbe – test AI agents by making the systems around them fail](https://sampact.com/)
+AgentProbe · a product of Sampact LLC for people building AI agents See what your agent doeswhen things go wrong.
 
 ---
 
-## 2026-10-22 22:08 · TechCrunch AI
-### [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
-Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.
+## 2026-10-23 23:05 · TechCrunch AI
+### [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
+OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
 
 ---
 
-## 2026-10-22 22:08 · Hacker News
-### [Show HN: Stumble Upon for AI News](https://ainews247.org/)
-0 1. AI compute is the new oil–and needs a new market (www.economist.com) Oct 22 at 11:48 PM ago | discuss 0 2. The Next Bottleneck in AI for Science (www.mixtureofexperts.
+## 2026-10-23 22:43 · Hacker News
+### [Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product](https://aethyro.com/)
+AETHYRO CLOUD · ONLINE · Claude Opus 5 · No install required Not a chatbot.An orchestration layer.
 
 ---
 
-## 2026-10-22 21:55 · Hacker News
-### [Thoughts on AI in game development (from the trenches)](https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/)
+## 2026-10-23 22:36 · Hacker News
+### [Wall Street prepares for AI's "day after"](https://www.axios.com/2026/10/23/ai-catastrophe-wall-street)
 
 ---
 
-## 2026-10-22 21:51 · The Verge AI
-### [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)
-Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage a…
+## 2026-10-23 22:18 · Hacker News
+### [Narrative Deck – AI Agent skill for creating interactive web stories](https://aakatheeri.github.io/narrative-deck/)
+For AI-assisted makers Use this as a skill, not just a demo Install the Narrative Deck skill in your AI assistant, then ask it to use narrative-deck before building.
 
 ---
 
-## 2026-10-22 21:43 · Hacker News
-### [US banks are blocking third-party AI agents access to customer accounts](https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/)
+## 2026-10-23 22:04 · Hacker News
+### [The same AI question emits more carbon dioxide in Texas than in Sweden](https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html)
+The Swedish AI company Berget AI, together with researchers from the Stockholm Environment Institute (SEI) and the organizations WattTime and Klimatkollen, has developed a new method for calculating h…
 
 ---
 
-## 2026-10-22 21:29 · Hacker News
-### [Public-Interest Information in an AI-Intermediated Age](https://www.journalismfutures.org/three-layer-cake)
-YEAR 1, FALL 2025-2026 Public-Interest Information in an AI-Intermediated Age This report brings together what we learned in our first year of convenings and conversations with journalists, technologi…
+## 2026-10-23 22:00 · Hacker News
+### [AI devours a fifth of companies' IT budgets](https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html)
+According to a new study by the research firm Forrester, AI will account for 20% of corporate technology spending in 2027.
 
 ---
 
-## 2026-10-22 21:26 · Hacker News
-### [Show HN: AI Prompt Chain Builder – offline multi-step prompt workflows](https://theaioperatorstore.gumroad.com/l/kjxamb)
+## 2026-10-23 21:59 · TechCrunch AI
+### [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
+The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
 
 ---
 
-## 2026-10-22 21:21 · Hacker News
-### [1Password adds browser login feature for AI agents](https://1password.com/personal-ai-agent-integrations)
-1Password for AgentsAI agents need 1Password, not your passwordsThe 1Password for Agents platform integrates with AI agents like Muse, from Meta, Anthropic's Claude, and OpenAI's ChatGPT Work and dots…
+## 2026-10-23 21:53 · Hacker News
+### [AI Just Raised the Stakes on Continuous Delivery](https://www.bradoyler.com/ai/continuous-delivery-is-a-security-feature/)
+On October 21, TechCrunch ran a headline that pretty much summed up my week: The internet is having a very bad cybersecurity day. It wasn't really one day.
 
 ---
 
-## 2026-10-22 21:18 · Hacker News
-### [AI vs. no AI? not much of interest to me](https://mvndy.cl/blog/a-sort-of-declaration)
-← BACK TO ARCHIVE 20.10.2026ENTRY 016 Although I'm a leftist, I consider myself more of a Debordian, or perhaps somewhere between Debord and Mark Fisher.
+## 2026-10-23 21:36 · Hacker News
+### [Show HN: AiSniff, underline the phrases in a text that read like AI wrote them](https://github.com/Arthur031221/AiSniff)
+AiSniff marks phrases in English and Chinese text that match documented AI-writing patterns. Each mark names its rule, cites a public source and suggests a plain rewrite.
 
 ---
 
-## 2026-10-22 21:08 · Hacker News
-### [Show HN: AI for Group Chats](https://boba.app)
-Free · No app · No sign-upThe AI that getsyour goals, habits, group, people, plans and family Text it or use it on the web, one-on-one or in your group chats.
+## 2026-10-23 21:11 · Hacker News
+### [AI is devastating higher education, but the system was broken](https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988)
+If you work at a university today, you talk a lot with the dead. I don’t mean that as a metaphor – or, at least, not entirely. Generative AI trains on people.
 
 ---
 
-## 2026-10-22 21:07 · Hacker News
-### [SpaceX $40B debt deal gets pricey as AI fears spread](https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread)
-SpaceX’s $40 billion debt raise is being finalized at sharply higher interest rates than when the rocket company last tapped bondholders, a sign of growing jitters in the AI world.
+## 2026-10-23 21:11 · The Verge AI
+### [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
+OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment…
 
 ---
 
-## 2026-10-22 20:57 · Hacker News
-### [Microsoft says its AI tool is better than doctors at diagnosing conditions](https://microsoft.ai/news/building-medical-superintelligence/)
-Health MAI Health Team October 22, 2026 Health MAI Health Team What if AI could help clinicians work through a complex medical diagnosis, step by step, and achieve higher accuracy, at lower cost, with…
+## 2026-10-23 21:06 · Hacker News
+### [Show HN: AI Detector that is private, free and unlimited use](https://kouh.me/ai-text-detector)
+Paste any essay, article, post or story. You'll get an AI score and see which passages read as AI-generated. Text to analyze 0 words Frequently asked questions How does the AI text detector work?
 
 ---
 
-## 2026-10-22 20:51 · Hacker News
-### [Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085)
-A majority of Americans say artificial intelligence is a bad thing for society and about two-thirds oppose the construction of new data centers in the U.S.
+## 2026-10-23 21:04 · Hacker News
+### [AI gets about 10x cheaper every year](https://stevekrouse.com/10x)
+October 23, 2026 The cost to use a given level of AI falls about 10x every 12 months.
 
 ---
 
-## 2026-10-22 20:32 · The Verge AI
-### [Meta&#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
-Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address…
+## 2026-10-23 21:01 · Hacker News
+### [Please Don't Let an AI Bot Log into Your Bank Account](https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/)
+Whatever you do with AI, don’t give AI bots your banking information. Agents like Meta’s Muse, OpenClaw and OpenAI’s dots are all the rage in the AI world these days.
 
 ---
 
-## 2026-10-22 20:24 · The Verge AI
-### [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
-Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketi…
+## 2026-10-23 21:00 · Hacker News
+### [The Reason AI Can't Take Your Job [video]](https://www.youtube.com/watch?v=1-NXfnVeDfw)
 
 ---
 
-## 2026-10-22 20:15 · Hacker News
-### [Show HN: Secure your AI agents on Mac](https://installplango.com/)
-Your computer needs intelligent security. Plango is the world's first local cyber intelligence model for your personal computer. Protecting yourself from bad AI requires good AI.
+## 2026-10-23 20:33 · Hacker News
+### [What are some free AI education platforms to learn AI? [video]](https://www.youtube.com/watch?v=4iTqvHrzzAw)
 
 ---
 
-## 2026-10-22 19:45 · The Verge AI
-### [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari)
-Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis…
+## 2026-10-23 20:15 · Hacker News
+### [Kimi K3.1 Pro puts open-source AI a month behind the best](https://www.modelcompare.ai/blog/china-open-source-ai)
+Open-source AI · October 2026The best open model used to trail the best closed one by about three months.
 
 ---
 
-## 2026-10-22 19:38 · Hacker News
-### [Messaging for AI Agents](https://trycrabmail.com/)
-Messaging for AI agents Crabmail gives each agent an address like scout@yourteam.crabmail.ai. Agents send each other messages over the open Agent Messaging Protocol, and messages can be signed.
+## 2026-10-23 20:08 · Hacker News
+### [AI Coding Agent Security Benchmark](https://www.endorlabs.com/research/ai-code-security-benchmark)
+18px_cookiee-removeEssential RequiredThese items are required to enable basic website functionality.
 
 ---
 
-## 2026-10-22 19:33 · Hacker News
-### [Amazon is buying billions in Nvidia AI systems it can't yet turn on](https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10)
-Exclusive Amazon is buying billions in Nvidia AI systems it can't yet turn on By Eugene Kim You're currently following this author! Click to unsubscribe from email alerts.
+## 2026-10-23 20:00 · Hacker News
+### [The "AI-Last" Methodology](https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology/)
+It is my view that, as things stand right now, AI is generally reducing net productivity. AI should have created a huge economic boom.
 
 ---
 
-## 2026-10-22 19:29 · Hacker News
-### [New prize launches for books co-written with AI](https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france)
-A prize for AI-written books has launched this week.The Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication.
+## 2026-10-23 19:33 · Hacker News
+### [Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm](https://github.com/rla-labs/argus)
+Argus is a self-hosted system for running AI agents over days and weeks. It enforces a budget on every run, asks before risky actions and recovers after a crash.
 
 ---
 
-## 2026-10-22 19:23 · Hacker News
-### [Banks Are Struggling to Protect Customers from Their Own AI Agents](https://www.motherjones.com/politics/2026/10/banks-ai-axios-agents-rogue-financial-decisions-security/)
-A robot catches a falling $100 bill during an "Are You Faster Than a Robot?" challenge during South by Southwest in Austin, Texas, March 13, 2026.
+## 2026-10-23 19:32 · The Verge AI
+### [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)
+Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can oc…
 
 ---
 
-## 2026-10-22 19:22 · Hacker News
-### [US Banks Blocking AI Agents in Accounts](https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/)
-AI agents are using customer-provided credentials to access bank accounts without bank approval.
+## 2026-10-23 19:31 · Hacker News
+### [New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors](https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562)
 
 ---
 
-## 2026-10-22 19:17 · Hacker News
-### [Show HN: Forked – Git for AI agent state](https://github.com/clibequilibrium/forked)
-Git for agent state. Your agent crashed after charging the card. You retried it. Nobody got charged twice, because the effect log replayed the stored result instead of re-running the charge.
+## 2026-10-23 19:06 · TechCrunch AI
+### [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
+Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d…
 
 ---
 
-## 2026-10-22 19:13 · Hacker News
-### [Why AI Agents Need Shared Experience, Not Just Better Models](https://project507.substack.com/p/the-five-senses-of-artificial-intelligence)
+## 2026-10-23 18:52 · Hacker News
+### [Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)](https://useinstantsearch.com/)
+Type what you remember. Instant finds it, and nothing leaves your Mac.
 
 ---
 
-## 2026-10-22 19:07 · TechCrunch AI
-### [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
-The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.
+## 2026-10-23 18:40 · Hacker News
+### [Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline](https://theaioperatorstore.gumroad.com/l/womuyx)
 
 ---
 
-## 2026-10-22 19:00 · TechCrunch AI
-### [OpenAI makes its Jev competitor widely available as decision model competition heats up](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)
-OpenAI is launching its decision model to the world. Can it compete with the original Jev?
+## 2026-10-23 18:27 · Hacker News
+### [Show HN: UPA – An explicit organizational model for humans and AI](https://github.com/julianfromano/upa-organization-brain)
+UPA — an explicit organizational model for humans and AI ██╗ ██╗ ██████╗ █████╗ ██║ ██║ ██╔══██╗ ██╔══██╗ ██║ ██║ ██████╔╝ ███████║ ██║ ██║ ██╔═══╝ ██╔══██║ ╚██████╔╝ ██║ ██║ ██║ ╚═════╝ ╚═╝ ╚═╝ ╚═╝ ─…
 
 ---
 
-## 2026-10-22 19:00 · TechCrunch AI
-### [Canva releases its first image generation model](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/)
-Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.
+## 2026-10-23 18:16 · Hacker News
+### [Writing Code vs. Shipping Code: Productivity Across Generations of AI Code Tools](https://www.nber.org/papers/w35275)
+How do the productivity effects of AI evolve across successive generations of tools, and to what extent do task-level gains ultimately translate into final output?
 
 ---
 
-## 2026-10-22 18:59 · Hacker News
-### [Show HN: Mnemolith – AI coding memory that goes stale when your code changes](https://github.com/anishchugh05/mnemolith)
-Shared memory for AI coding tools that stays true to your code. Mnemolith (NEE-mo-lith): "memory stone." What your AI learns, carved where every tool can read it. (Why the name) Formerly Aether Cache.
+## 2026-10-23 18:14 · Hacker News
+### [Behavior-Centric AI Design](https://swamp-club.com/behavior)
+The industry is undergoing a fundamental shift in how it builds AI systems, from early experimentation to at-scale production use.
 
 ---
 
-## 2026-10-22 18:58 · The Verge AI
-### [Discord now formats Markdown previews right](https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels)
-Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with "a bunch of symbols," according to the company. LLMs and AI agents…
+## 2026-10-23 18:13 · Hacker News
+### [AI models think humans are a bunch of amoral sheep](https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123)
+ai and ml Ask LLMs for their most controversial take on humanity, and it turns out they have little nice to say about us, as one AI experiment found If you've ever wondered what the bots think of us p…
 
 ---
 
-## 2026-10-22 18:49 · Hacker News
-### [AI found a critical PHP flaw. The bigger failure began in 2024](https://thenewstack.io/php2shell-chainguard-embargo-dispute/)
-Did one of your favorite websites go dark on Wednesday? Some did, as operators took services offline while they waited for fixes to two critical flaws in PHP, the language behind much of the web.
+## 2026-10-23 18:06 · Hacker News
+### [Show HN: AI Heat Map powered by over 120 data feeds](https://ai-news.jagular.io)
+About Jag's AI Heat Map An interactive map of the AI companies, models, products, people, hardware and ideas that are getting the most attention in AI news and developer communities.
 
 ---
 
-## 2026-10-22 18:47 · Hacker News
-### [How to spot AI science slop](https://labmuffin.com/how-to-spot-ai-science-slop/)
-Affiliate Disclosure: I receive a small commission for purchases made via affiliate links. How to cite: Wong M. How to spot AI science slop. Lab Muffin Beauty Science. September 26, 2026.
+## 2026-10-23 17:00 · The Verge AI
+### [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast)
+We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about t…
 
 ---
 
-## 2026-10-22 18:43 · TechCrunch AI
-### [Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
-Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft…
+## 2026-10-23 16:52 · The Verge AI
+### [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Aut…
 
 ---
 
-## 2026-10-22 18:32 · Hacker News
-### [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
+## 2026-10-23 14:47 · The Verge AI
+### [Meta delays new business terms after publisher pushback on AI scraping](https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping)
+Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.…
 
 ---
 
-## 2026-10-22 18:28 · Hacker News
-### [Award-winning AI literature](https://jamesyu.org/award-winning-ai-literature/)
-This a list of literary awards granted to works where AI was used (or was suspected) as part of the writing process AI WAS ALLOWED FROM THE START 🇯🇵 Short story Are You There?
+## 2026-10-23 12:00 · The Verge AI
+### [Retro gaming is being overrun with AI](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port)
+Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past mont…
 
 ---
 
-## 2026-10-22 18:15 · The Verge AI
-### [In Meta’s version of the future, I’ll have my Muse call your Muse](https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network)
-Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans r…
+## 2026-10-23 04:00 · TechCrunch AI
+### [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
+The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
 
 ---
 
-## 2026-10-22 18:00 · The Verge AI
-### [Microsoft says its AI tool is better than doctors at diagnosing conditions](https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence)
-For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now "it is finally here," Microsoft AI CEO Mustafa Suleyman tells The Verge.…
-
----
-
-## 2026-10-22 17:21 · The Verge AI
-### [Someone hacked the Switch 2 by using an old game and AI](https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai)
-The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the re…
-
----
-
-## 2026-10-22 16:47 · TechCrunch AI
-### [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/)
-Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.
-
----
-
-## 2026-10-22 16:16 · The Verge AI
-### [Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’](https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion)
-Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The…
-
----
-
-## 2026-10-22 16:00 · TechCrunch AI
-### [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/)
-The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.
-
----
-
-## 2026-10-22 15:50 · The Verge AI
-### [OpenAI, Anthropic, and Nvidia had record lobbying quarters](https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records)
-It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the…
-
----
-
-## 2026-10-22 15:03 · TechCrunch AI
-### [Spotify’s current AI bet is about being the music service that agents choose](https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/)
-Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.
-
----
-
-## 2026-10-22 13:53 · TechCrunch AI
-### [Claude Duet app is Anthropic’s bet on agents](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/)
-Claude Duet is available through waitlist for Pro and Max plan users.
-
----
-
-## 2026-10-22 13:26 · TechCrunch AI
-### [Nirva raises $33M for a pendant that only listens to you](https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/)
-Nirva will ship its $249 ambient AI pendant by the end of the year.
-
----
-
-## 2026-10-22 13:11 · TechCrunch AI
-### [DeepSeek reportedly raises $15B days after US restrictions](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)
-DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.
+## 2026-10-23 00:45 · TechCrunch AI
+### [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
+MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.
 
 ---
