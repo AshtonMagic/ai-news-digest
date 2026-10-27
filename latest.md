@@ -1,199 +1,241 @@
-# AI 新闻日报 · 2026-10-26
+# AI 新闻日报 · 2026-10-27
 
-> 共收录 34 篇，来自 3 个源（Hacker News · TechCrunch AI · The Verge AI）
-
----
-## 2026-10-25 22:49 · Hacker News
-### [Apollo says AI has delivered 'zero financial payoff' outside the tech industry](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10)
-By Truman Dickerson You're currently following this author! Click to unsubscribe from email alerts. One of the world's largest investment firms isn't bullish on AI. Michael M.
+> 共收录 41 篇，来自 3 个源（Hacker News · The Verge AI · TechCrunch AI）
 
 ---
-
-## 2026-10-25 22:39 · Hacker News
-### [You don't have to build the model to compete in AI](https://www.purifigroup.com/index.html)
-01 / The Shared Canvas One canvas. Everyone on it. Send a link. They sign in and join the canvas. THE EXPERIENCE The work happens in one place. 01Question the analysis. 02Challenge assumptions.
+## 2026-10-27 00:01 · Hacker News
+### [Some cybersecurity x AI dichotomies](https://cje.io/2026/10/26/some-cyber-ai-dichotomies/)
+If you follow me on the socials, you might have noticed me saying that "I miss nuance" a number of times lately.
 
 ---
 
-## 2026-10-25 22:22 · Hacker News
-### [Show HN: Glitchrupt: Glitch your desktop when your AI agent needs your attention](https://github.com/elbee19/glitchrupt)
-Your agent needs you. Give the screen a little attitude. Twelve windows deep? Agent waiting on a question?
+## 2026-10-27 00:00 · Hacker News
+### [AI talk has nearly doubled outside tech. Proof of payoff is still rare](https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare)
+Summary Executives at S&P 500 companies outside technology now talk about AI on most of their earnings calls. From July to September 2026 they did on 60.5% of calls, up from 32.
 
 ---
 
-## 2026-10-25 22:20 · Hacker News
-### [Germany's Idle Nuclear Plants Eye New Life as AI Data Centers](https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers)
+## 2026-10-26 23:52 · Hacker News
+### [Software stack is an abstraction made for humans. AI can skip it](https://vithushansylvester.com/writing/what-is-left-when-the-programmer-is-not-human)
+HomeWritingExperimentExperiment · AI and software engineeringYour tech stack is an abstraction made for humans. AI can skip it.
 
 ---
 
-## 2026-10-25 22:18 · Hacker News
-### [Disadvantages of Designating Mathematicians for AI Output Releases](https://terrytao.wordpress.com/2026/10/25/disadvantages-of-designating-mathematicians-for-ai-output-releases/)
-[This is a guest post by the Advisory Group on Mathematics and Artificial Intelligence, crossposted from their site.
+## 2026-10-26 23:34 · The Verge AI
+### [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
+Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more "major" discoveries in math,…
 
 ---
 
-## 2026-10-25 22:11 · Hacker News
-### [Nvidia eyes converting old nuclear plants into AI data centers](https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch)
-Nvidia is collaborating with German energy firm PreussenElektra GmbH (PEL) to explore converting old nuclear power plants into AI data centers. In an official announcement on October 21st, the U.S.
+## 2026-10-26 23:11 · Hacker News
+### [A directory for AI-slop games](https://claudeslop.bryanhu.com)
+A playable link, a little context, and you're in. All AI tools welcome. Claudeslop is a place to discover and share little games made with AI. Strange experiments and rough edges are welcome.
 
 ---
 
-## 2026-10-25 21:53 · Hacker News
-### [Show HN: I built an AI agent to find customers on Telegram while I sleep](https://opensparta.com/en)
-Discover relevant conversations, reach new audiences, and automate Telegram engagement with AI.Start for FreeNo credit card required.
+## 2026-10-26 23:11 · Hacker News
+### [Show HN: Hugonot – Sponsor a Dedicated AI Blogger](https://www.hugonot.com/)
+hugonotwhy it workshow it worksblogpricingsign intry it freefor marketing & SEO teamssponsor a blogger that makes your brand the authoritya hugonot is an AI blogger with a niche of its own.
 
 ---
 
-## 2026-10-25 21:41 · Hacker News
-### [China increasingly depends on copying American AI](https://economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai)
+## 2026-10-26 23:08 · Hacker News
+### [Anthropic's S-1, $518B in cloud commitments, and circular AI capex](https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk)
+While reading through Anthropic's Form S-1 SEC registration statement for its proposed Nasdaq IPO under ticker ANT today, a few infrastructure and accounting details in the footnotes stood out that sh…
 
 ---
 
-## 2026-10-25 21:36 · Hacker News
-### [Report says 'circular financing' shows AI bubble 'primed to pop'](https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst)
-The artificial intelligence (AI) boom represents one of the largest speculative frenzies in history. The ten most valuable U.S. companies are all tech giants. And most U.S.
+## 2026-10-26 23:06 · Hacker News
+### [AI Models Can Provably Hide Arbitrary Capabilities](https://maccus.fr/en/ai-models-hide-capabilities-oxford/)
+On October 9, 2026, four researchers posted a paper titled “AI Models Can Provably Hide Arbitrary Capabilities” on arXiv. The authors note there that it has been accepted at NeurIPS 2026.
 
 ---
 
-## 2026-10-25 21:31 · TechCrunch AI
-### [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
-The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
+## 2026-10-26 22:58 · Hacker News
+### [US political candidates tailor messages for AI models used by voters](https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/)
 
 ---
 
-## 2026-10-25 21:11 · Hacker News
-### [Crawlerpeek – check which AI crawlers your site lets in (CLI, MCP)](https://github.com/crawlerpeek/crawlerpeek)
-Check whether AI crawlers can access your site.
+## 2026-10-26 22:53 · Hacker News
+### [What is bigger than AI?](https://www.exponentialview.co/p/what-is-bigger-than-ai)
+In August 2024, we said GLP-1s “will be the most impactful technology in the US over the next two years, with more meaningful and measurable impacts than either artificial intelligence or renewable te…
 
 ---
 
-## 2026-10-25 20:47 · Hacker News
-### [Struggling to Keep AI Out](https://blog.eunach.scot/struggling-to-keep-ai-out)
-I am an AI hater. Simple as that. I think the people using are relinquishing their ability to do, well, anything.
+## 2026-10-26 22:47 · Hacker News
+### [The Paradox of Contemporary AI: Engineering Success and Institutional Failure](https://3quarksdaily.com/3quarksdaily/2026/03/the-paradox-of-contemporary-ai-engineering-success-and-institutional-failure.html)
 
 ---
 
-## 2026-10-25 20:46 · Hacker News
-### [Show HN: AgentTrust – Zero-trust security and human approvals for AI agents](https://github.com/SRN0129/Agenttrust)
-Zero-Trust Policy Enforcement, Cryptographic Audit Ledger, and Human-in-the-Loop Governance for Autonomous Agent Runtimes Overview AgentTrust is an interoperable security gateway and policy enforcemen…
+## 2026-10-26 22:41 · Hacker News
+### [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+On September 8, 2026, we were alerted by a security researcher, Gadi Evron from Knostic, to a tenant isolation issue affecting the GLM-5.3 Workers AI model (@cf/zai-org/glm-5.
 
 ---
 
-## 2026-10-25 20:44 · Hacker News
-### [Why I'm Short the AI Buildout Even Though I'm Long Computers](https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even)
+## 2026-10-26 21:48 · Hacker News
+### [The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them](https://codingplans.dev/briefs/us-model-labs-part-1/)
+Home > Briefs > The US Model Labs, Part 1 Market Structure Brief · Part 1 of 3 • Dataset verified 2026-10-26 Nine American companies whose main business is a model or a model-powered product carry rou…
 
 ---
 
-## 2026-10-25 20:16 · Hacker News
-### [I Let AI Port an Xbox 360 Game to PC (and It Worked) [video]](https://www.youtube.com/watch?v=rojjkW74d-k)
+## 2026-10-26 21:48 · Hacker News
+### [Wall St banksline up $63B to finance Broadcom AI chips for Anthropic](https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/)
 
 ---
 
-## 2026-10-25 20:16 · Hacker News
-### [AI and Humans: The Three-Speed Problem](https://www.fasttrackfemme.com/p/ai-humans-the-three-speed-problem)
-By about seven o’clock most nights now, I’m theoretically finished working.This would have sounded absurd to me a year ago.
+## 2026-10-26 21:45 · The Verge AI
+### [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)
+As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate pow…
 
 ---
 
-## 2026-10-25 20:01 · Hacker News
-### [The Power Grab of the AI Doomers](https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers)
-This new UnHerd magazine essay is about the authoritarian politics of AI Doomerism. It explains how it turned philosophical thought experiments into proposals for mass surveillance of researchers.
+## 2026-10-26 21:45 · Hacker News
+### [Police Pulling People over Because AI Deems Their Driving Patterns "Suspicious"](https://www.aclu.org/news/privacy-technology/ai-driven-police-stops)
+Subscribe to the Free Future Newsletter Or get immediate notifications of new posts via Substack Free Future home In September 2025, Grace Knowles, a 20-something from northern Virginia, was between j…
 
 ---
 
-## 2026-10-25 19:54 · Hacker News
-### [Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline](https://theaioperatorstore.gumroad.com/l/womuyx)
+## 2026-10-26 21:32 · Hacker News
+### [You can hack your TVs and gadgets with AI for free now – but should you?](https://www.zdnet.com/innovation/ai-reverse-engineering-old-gadgets-smart-tvs/)
+ZDNET’s key takeaways New AI tools make modifying gadgets and device firmware easier. People use them to get more from their smartphones and smart TVs.
 
 ---
 
-## 2026-10-25 19:51 · Hacker News
-### [Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents](https://github.com/Hybirdss/Hycli)
-Turn any website into a typed CLI and MCP server for your AI agent.
+## 2026-10-26 21:29 · Hacker News
+### [Analysis – In China, the AI bubble has burst](https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN)
 
 ---
 
-## 2026-10-25 19:31 · Hacker News
-### [Reclaim disk space with an AI agent](https://github.com/riza/ai-disk-cleanup)
-Reclaim disk space with an AI agent — measured, tiered, and approved.
+## 2026-10-26 21:13 · Hacker News
+### [Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job](https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/)
+Proton, the company behind ProtonMail and other privacy-focused products, told staff on Monday it would be ‘re-interviewing’ staff across the company about how they use AI in their jobs, with the impl…
 
 ---
 
-## 2026-10-25 19:10 · Hacker News
-### [People are using AI to 'dumb down' their smart TVs. Is that a good idea?](https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179)
-WorldViral social media posts are showing people how to use AI to hack smart TVs to remove unnecessary apps and programs and disabling some tracking features in an effort to make them run more smoothl…
+## 2026-10-26 21:07 · Hacker News
+### [What we learned from 250k public workers about AI adoption](https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai)
 
 ---
 
-## 2026-10-25 18:58 · Hacker News
-### [The Question After the Answer: AI prediction and human autonomy](https://aegissolisarchive.org/the-question-after-the-answer/)
-Final v1.
+## 2026-10-26 21:03 · Hacker News
+### [AI models cost more when you don't use English](https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/)
+People who use less widely spoken languages could end up paying more to use artificial intelligence than those who speak English or other dominant languages.
 
 ---
 
-## 2026-10-25 18:53 · Hacker News
-### [AI-Powered Automatic Lockpick Machine [video]](https://www.youtube.com/watch?v=o4AUKGdScNI)
+## 2026-10-26 20:45 · Hacker News
+### [Rules of relevance: Carlyle's new paper on AI and markets](https://www.carlyle.com/global-insights/research/rules-of-relevance)
 
 ---
 
-## 2026-10-25 18:44 · Hacker News
-### [OpenAI's isolated AI agents found ways to talk to each other through CPU cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
-OpenAI now trains frontier models without internet access and uses AI agents to red-team its own infrastructure.
+## 2026-10-26 20:41 · Hacker News
+### [Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches](https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357)
+Linus Torvalds is embracing AI to write Linux kernel code, and some people are having fits. He has a message for them. So do I.
 
 ---
 
-## 2026-10-25 18:42 · Hacker News
-### [AI didn't cause the tech jobs bust, but it explains why there's no recovery](https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs)
-Figure 1 The economy grew. Tech shrank. Seasonally adjusted payroll employment, indexed to January 2020 = 100.
+## 2026-10-26 20:39 · Hacker News
+### [DealVector AI – Tracking True Days on Market and Price Cuts in Canada](https://dealvectorai.com)
+All-Canada Real Estate · Commercial · Business & AI Strategy Underwriter What are we underwriting today?
 
 ---
 
-## 2026-10-25 18:37 · Hacker News
-### [Show HN: Optio – A self-hosted orchestration platform for AI agents](https://optio.host/)
-Open-source agent orchestrationYour agents.Your infrastructure.One workspace.Turn a prompt into a pull request. Put a workflow on a schedule. Pick up a session from your phone.
+## 2026-10-26 20:37 · Hacker News
+### [The Shrugflation Triangle: How AI, Oil, and Treasuries Are Impacting the Economy](https://kyla.substack.com/p/the-shrugflation-triangle-how-ai)
 
 ---
 
-## 2026-10-25 18:31 · Hacker News
-### [Free AI education: certifications, hands-on technical courses, and resources](https://www.aicertificationcouncil.com/)
+## 2026-10-26 20:31 · Hacker News
+### [AI agents have few qualms with log tampering](https://www.manifold.security/blog/agent-log-tampering)
+Everybody’s doing itIn their Sept. 24 study, Qin et al. show it is alarmingly easy to get current frontier models to tamper with their own traces, hiding the evidence of what they did.
 
 ---
 
-## 2026-10-25 18:27 · Hacker News
-### [Why AI companies keep saying AI will kill us? [video]](https://www.youtube.com/watch?v=Yfn8fSo9rgM)
+## 2026-10-26 20:28 · Hacker News
+### [Grand theft AI: Highway thieves are stealing millions in data center gear](https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733)
+Trucking, supply chain and security industry veterans detailed to NBC News how thieves staged dramatic robberies as part of the growing theft of tech equipment.
 
 ---
 
-## 2026-10-25 18:18 · Hacker News
-### [Show HN: Open Accountant – AI-customizable budgeting app for freelancers](https://github.com/finereli/open-accountant)
+## 2026-10-26 20:07 · Hacker News
+### [Twins AI moved its production AI voice platform from GCP to Azure](https://www.twinsai.com/blog/google-cloud-to-azure-migration)
+Cloud credits can buy a startup time. The harder question is what it costs to use them.
 
 ---
 
-## 2026-10-25 18:16 · Hacker News
-### [China's first AI-generated film hits cinemas but ticket sales lag](https://www.channelnewsasia.com/east-asia/china-first-ai-film-cinemas-ticket-sales-6485401)
-BEIJING: China's first fully AI-generated feature film opens in cinemas on Friday (Oct 23), in what promises to be a tough box-office test for the country's booming tech industry as advance ticket sal…
+## 2026-10-26 19:56 · Hacker News
+### [A dated, inspectable AI citation checker (no fake rankings)](https://citysignal.date/)
+CitySignal · AI Answer Visibility Checker Free Checker Methodology Guide Pricing Privacy Terms When buyers ask AI, are you in the answer? CitySignal is an AI answer visibility checker.
 
 ---
 
-## 2026-10-25 16:57 · TechCrunch AI
-### [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
-"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+## 2026-10-26 19:52 · Hacker News
+### [Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.](https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/)
+Written by Al Vigier, founder and CEO of Caseway, an AI company that develops products with large enterprises and shares the resulting revenue. Since we announced on Sept.
 
 ---
 
-## 2026-10-25 14:10 · TechCrunch AI
-### [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)
-We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.
+## 2026-10-26 19:45 · Hacker News
+### [Patent Strategy in the Age of AI – Dan Gelbart [video]](https://www.youtube.com/watch?v=v5d8nwgiSYI)
 
 ---
 
-## 2026-10-25 13:25 · The Verge AI
-### [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
-The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or…
+## 2026-10-26 19:36 · Hacker News
+### [An Interview with OpenAI's Richard Ho on Groundbreaking Jalapeño AI Chip](https://taekim.substack.com/p/an-interview-with-openais-richard)
 
 ---
 
-## 2026-10-25 12:00 · The Verge AI
-### [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)
-This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inbox…
+## 2026-10-26 17:30 · The Verge AI
+### [The RealReal won’t let AI agents hog designer clothing](https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal)
+The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after T…
+
+---
+
+## 2026-10-26 17:10 · The Verge AI
+### [Five weird details from Anthropic’s IPO filing](https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details)
+Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending…
+
+---
+
+## 2026-10-26 16:49 · TechCrunch AI
+### [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
+Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust…
+
+---
+
+## 2026-10-26 16:46 · TechCrunch AI
+### [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
+The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.
+
+---
+
+## 2026-10-26 15:58 · The Verge AI
+### [Microsoft offers buyouts to 60,000 employees](https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible)
+Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives sta…
+
+---
+
+## 2026-10-26 14:35 · TechCrunch AI
+### [Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)
+Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa…
+
+---
+
+## 2026-10-26 14:00 · The Verge AI
+### [Kevin Roose is AGI-pilled. Why aren’t you?](https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic)
+Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Tim…
+
+---
+
+## 2026-10-26 13:32 · The Verge AI
+### [Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI](https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec)
+Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic sai…
+
+---
+
+## 2026-10-26 13:15 · The Verge AI
+### [Can AI help solve the COBOL code crisis?](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic)
+What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everyt…
 
 ---
