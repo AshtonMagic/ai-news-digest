@@ -1,258 +1,320 @@
-# AI 新闻日报 · 2026-11-03
+# AI 新闻日报 · 2026-11-04
 
-> 共收录 44 篇，来自 3 个源（Hacker News · TechCrunch AI · The Verge AI）
-
----
-## 2026-11-03 02:50 · Hacker News
-### [Show HN: PhoneUse – Phones for AI Agents](https://www.phoneuse.com/)
-Plug Claude Code Codex or Cursor into a phone and automate any app, through MCP or our API. 01The wall Most of life runs on apps.
+> 共收录 54 篇，来自 3 个源（Hacker News · The Verge AI · TechCrunch AI）
 
 ---
+## 2026-11-04 01:30 · Hacker News
+### [Local AI app that runs an 80B model on an 8GB Mac](https://yanahchat.com)
+Private: your data and your AI stay on your Mac, under your control. No cloud, no subscriptions, no one harvesting your conversations.
 
-## 2026-11-03 02:32 · Hacker News
-### [An AI visibility checker that runs in the browser](https://lumi-geo.pages.dev/)
-Chrome extensionSEO, GEO and AEOLumi GEO shows what AI crawlers really read on a page, what they miss, and gives you the code to fix it.
+---
+
+## 2026-11-04 01:21 · Hacker News
+### [Writing as an act of rebellion (Despite the AI psychosis)](https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion)
+
+---
+
+## 2026-11-04 01:02 · Hacker News
+### [SpaceX Will Be the Biggest AI Cloud](https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will)
+We wrote at length about how SpaceX’s plans for 10GW in 2027 was feasible, paving the way for 300b+ ARR. We received a lot of pushback from folks calling it impossible.
+
+---
+
+## 2026-11-04 00:54 · Hacker News
+### [AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs](https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/)
+Frontier models can apparently read, reason about, and even update neural network weights directly. (Read the report here!
+
+---
+
+## 2026-11-04 00:42 · The Verge AI
+### [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures)
+The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare "whether AI has been used in their work," the s…
+
+---
+
+## 2026-11-04 00:06 · Hacker News
+### [WayPointo – A directory for discovering and comparing AI and creative products](https://waypointo.com)
+Discover New AI Tools & Creative ProductsFlying Roadster AI Video GeneratorFlying Roadster AI Video Generator takes a car photo on a cinematic journey, with optional portrait, vertical or widescreen f…
+
+---
+
+## 2026-11-03 23:53 · Hacker News
+### [AI 'godfather' Hinton: humans might have been better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident t…
+
+---
+
+## 2026-11-03 23:45 · Hacker News
+### [Show HN: Modelpeers – a changelog for the AI models and agents you use](https://modelpeers.com)
+Know when a new version ships, and when something you rely on changes.The most notable changes of the last two weeks.
+
+---
+
+## 2026-11-03 23:37 · The Verge AI
+### [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)
+People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-cha…
+
+---
+
+## 2026-11-03 23:33 · Hacker News
+### [Show HN: Export your Character.AI chats in minutes – open-source, runs locally](https://github.com/anima-universe/character-ai-chat-exporter)
+Save your own Character.AI chats, the characters you talked to and made, your personas and memory boxes to one file on your computer. It takes minutes, where the official export can take 3 to 4 weeks.
+
+---
+
+## 2026-11-03 23:33 · Hacker News
+### [Adamanteum: A local, MIT knowledge atlas your notes and any AI can both read](https://github.com/ohhbeehave35-commits/adamanteum-community)
+Adamanteum Community Edition A knowledge atlas for people AND for AI. You read, search and explore your notes and code; any AI reads the same vault through a safe door.
+
+---
+
+## 2026-11-03 23:26 · Hacker News
+### [Free AI for Everyone](https://cloudy.chat)
+The free AI chat that also codes.A friendly AI chat and a coding agent that work together — in your browser and in your terminal, on one account.
+
+---
+
+## 2026-11-03 23:24 · Hacker News
+### [AI Replaces Tools,Not Worldviews:Why True Artistic Expression Won't Be Displaced](https://medium.com/@saitoken330/my-personal-views-on-ai-as-an-illustrator-661642e4ddc5)
+
+---
+
+## 2026-11-03 23:16 · Hacker News
+### [FlashProve: Zero-knowledge proofs of AI inference](https://github.com/anthropics/FlashProve)
+Version 0.16.0 · A research artifact: not maintained, not accepting contributions. · Apache 2.
+
+---
+
+## 2026-11-03 23:12 · Hacker News
+### [CrowdStrike Introduces the AI Kill Switch for AI Safety](https://www.crowdstrike.com/en-us/press-releases/crowdstrike-introduces-ai-kill-switch-for-ai-safety/)
+The AI Kill Switch gives defenders the power to terminate rogue agents at the root, with a human in control, so enterprises can adopt AI with confidence AUSTIN, Texas and Fal.
+
+---
+
+## 2026-11-03 22:41 · TechCrunch AI
+### [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
+Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.
+
+---
+
+## 2026-11-03 22:38 · Hacker News
+### [Apple opens Siri AI to every app, and lets developers teach it skills](https://madrobot.blog/2026/11/03/siri-ai-app-skills-developers-ios-27-3/)
+The Siri AI icon, from Apple’s developer announcement opening Siri AI to all developers. Image: AppleAny app can now plug into Siri AI. With the first iOS 27.
+
+---
+
+## 2026-11-03 22:36 · Hacker News
+### [Why Every AI Model Will Ship as a Torrent](https://pirateface.co/articles/one-model-one-swarm)
+ResourcesSubmitArticlesHow it works
+
+---
+
+## 2026-11-03 22:36 · Hacker News
+### [AI Unlocked My Ransomware-Encrypted Files – Without the Key](https://medium.com/@weaxdesign/ai-unlocked-my-ransomware-encrypted-files-without-the-key-262212277514)
+
+---
+
+## 2026-11-03 22:31 · Hacker News
+### [Siri AI is now open to all developers](https://developer.apple.com/news/?id=gdk2umrf)
+November 3, 2026 Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.
+
+---
+
+## 2026-11-03 22:26 · Hacker News
+### [Microsoft Bing AI Search Choice](https://chromewebstore.google.com/detail/microsoft-bing-ai-search/mcaabonmnmphidjfohjkdobemneigopa)
+OverviewSet Bing as your default search provider and open Bing on every new tab. Control AI summaries and other features in Bing results.
+
+---
+
+## 2026-11-03 22:19 · TechCrunch AI
+### [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)
+The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines…
+
+---
+
+## 2026-11-03 21:50 · Hacker News
+### [Lotse: AI Coding Agent – iOS](https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136)
+Pull requests from your phone Free · In‑App Purchases Describe a change, get a pull request. Lotse works in the cloud, runs your tests and pings you when done, even with the app closed.
+
+---
+
+## 2026-11-03 21:43 · TechCrunch AI
+### [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
+Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.
+
+---
+
+## 2026-11-03 21:40 · Hacker News
+### [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
+View PDF HTML (experimental) Abstract:This book provides a compact, derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence.
+
+---
+
+## 2026-11-03 21:26 · Hacker News
+### [US tech giants' hidden AI debt swells 90% to $3.2T in 6 months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
+Artificial intelligenceGoogle, Meta, others' commitments and obligations reach 80% of assetsAn Amazon data center in the U.S. state of Indiana.
+
+---
+
+## 2026-11-03 21:25 · Hacker News
+### [The AI Boom May Be Sowing Seeds of Another Financial Crisis](https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight)
+
+---
+
+## 2026-11-03 21:23 · Hacker News
+### [British fintech Revolut slashes AI coding costs 10x by going self-hosted](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345)
+REG AD ai and ml Turns out cheap tokens get engineers doing things that save time, like debugging and tackling Jira tickets Revolut says that in less than a year it's managed to slash its AI coding in…
+
+---
+
+## 2026-11-03 21:05 · TechCrunch AI
+### [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)
+Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.
+
+---
+
+## 2026-11-03 21:01 · The Verge AI
+### [Those Jeff Bezos hair transplant photos are very fake](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk)
+Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some ima…
+
+---
+
+## 2026-11-03 20:57 · Hacker News
+### [Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%](https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/)
+
+---
+
+## 2026-11-03 20:42 · Hacker News
+### [Google to cutoff Search Engine access to schools banning Gen. AI](https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/)
+
+---
+
+## 2026-11-03 20:40 · Hacker News
+### [AI Agents Used by Railway Breach Systems of Rival Primcloud](https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud/)
+
+---
+
+## 2026-11-03 20:37 · Hacker News
+### [The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
+
+---
+
+## 2026-11-03 20:18 · Hacker News
+### [Show HN: Mallard: Git for the age of AI agents](https://mallard-ai.com/home)
+Loading Mallard…正在载入 Mallard…
+
+---
+
+## 2026-11-03 20:17 · Hacker News
+### [Face Rater – AI Face Analysis and Face Rating Report](https://facerater.net/)
+A new perspective on your photoUpload your photo, choose a report style, and get a personalized image report.See the possibilitiesOne photo. A fresh perspective.Explore nine report styles below.
+
+---
+
+## 2026-11-03 20:16 · The Verge AI
+### [Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps)
+Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in "all a…
+
+---
+
+## 2026-11-03 20:14 · Hacker News
+### [AI agents beating human made tools at molecular discovery](https://twitter.com/intology/status/2117642701890105725)
+Locus sets the frontier for automating molecular design Our automated research system Locus develops scientific AI models that outperform SOTA expert solutions Unlocking the potential of scientific AI…
+
+---
+
+## 2026-11-03 19:34 · TechCrunch AI
+### [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
+The five-year-old startup raised a $1.3 billion round led by Bessemer.
+
+---
+
+## 2026-11-03 18:42 · TechCrunch AI
+### [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/)
+The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.
+
+---
+
+## 2026-11-03 18:31 · The Verge AI
+### [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)
+Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Reca…
+
+---
+
+## 2026-11-03 18:30 · The Verge AI
+### [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)
+In many circles, "Ask Chat" has replaced "Google it," and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run t…
+
+---
+
+## 2026-11-03 18:14 · The Verge AI
+### [Indie games are missing launch dates because Steam is backed up](https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates)
+Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss t…
+
+---
+
+## 2026-11-03 18:00 · The Verge AI
+### [Netflix will show you themed recommendations through a new ‘AI Discover’ tab](https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations)
+Netflix's TV app is getting a new "AI Discover" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surface…
+
+---
+
+## 2026-11-03 17:07 · TechCrunch AI
+### [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
+At a moment when Anthropic's compute margins should be getting better, they’re getting worse.
+
+---
+
+## 2026-11-03 17:00 · The Verge AI
+### [Google is entirely disabling Search in schools that don&#8217;t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)
+Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on T…
+
+---
+
+## 2026-11-03 16:30 · TechCrunch AI
+### [Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)
+Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.
+
+---
+
+## 2026-11-03 15:58 · The Verge AI
+### [Midterm elections 2026: all the news](https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news)
+The 2026 midterm elections will determine the scope of President Donald Trump&#8217;s power in his final two years in office, and signal what voters care about going into the 2028 presidential electio…
+
+---
+
+## 2026-11-03 15:38 · TechCrunch AI
+### [Apple restricts dating apps and AI companions to users 18 and up](https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/)
+Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.
+
+---
+
+## 2026-11-03 14:30 · TechCrunch AI
+### [The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4](https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/)
+On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.
+
+---
+
+## 2026-11-03 14:00 · TechCrunch AI
+### [Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase](https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/)
+Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.
+
+---
+
+## 2026-11-03 07:20 · TechCrunch AI
+### [Apple Watch’s AI features for rewinding and recapping conversations begin beta testing](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/)
+Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.
+
+---
+
+## 2026-11-03 03:30 · TechCrunch AI
+### [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
+Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.
 
 ---
 
 ## 2026-11-03 01:49 · TechCrunch AI
 ### [Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)
 Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.
-
----
-
-## 2026-11-03 01:30 · Hacker News
-### [OpenAI hires former US Army secretary as military seeks to expand AI use](https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67)
-
----
-
-## 2026-11-03 01:18 · Hacker News
-### [OpenAI considers rebranding data centers to 'AI compute campuses"](https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue)
-OpenAI is reportedly preparing a major public relations campaign to influence how Americans view artificial intelligence, including a proposal to rename its data centers as “AI Compute Campuses,” Axio…
-
----
-
-## 2026-11-03 01:04 · Hacker News
-### [Claudbar: An AI side panel for Firefox](https://addons.mozilla.org/firefox/addon/claudbar/)
-A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.
-
----
-
-## 2026-11-03 00:50 · Hacker News
-### [Goldman restricts traders and bankers from using some AI tools](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-14066677.html)
-For months, Goldman allowed bankers to use Anthropic PBC’s Claude Code and Microsoft Corp.’s GitHub for work.
-
----
-
-## 2026-11-03 00:40 · Hacker News
-### [Dartmouth's provost warned us about AI cheating–but his AI use cost him his job](https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/)
-Despite the scandal, Dartmouth President Sian Leah Beilock wants more AI. (She wrote a piece for The Atlantic in September, called “Why I Want More AI at Dartmouth.
-
----
-
-## 2026-11-03 00:35 · TechCrunch AI
-### [Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
-Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter…
-
----
-
-## 2026-11-03 00:32 · Hacker News
-### [Stolen AI API keys generated nearly $1M in charges for a single company](https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/)
-Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in…
-
----
-
-## 2026-11-03 00:06 · Hacker News
-### [Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting](https://www.gadgetreview.com/the-number-of-innocent-people-being-accused-of-shoplifting-by-faulty-ai-facial-recognition-systems-is-alarming)
-Innocent UK shoppers wrongly flagged by Facewatch face a months-long data battle to clear their names across shared retailer watchlistsA man walked into a Home Bargains store with his wife to buy vita…
-
----
-
-## 2026-11-02 23:53 · Hacker News
-### [Developers are downgrading their AI on purpose – and it's working](https://thenewstack.io/claude-code-developer-refusals/)
-Anthropic has confirmed that it added new restrictions to Claude Code to prevent users from recreating existing video games. But developers say Claude Opus 5.
-
----
-
-## 2026-11-02 23:50 · Hacker News
-### [An open-source tool that makes eye-candy Instagram posts that doesn't use AI](https://www.useinstatools.com/)
-
----
-
-## 2026-11-02 23:13 · TechCrunch AI
-### [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
-The one-year-old startup is now valued at $300 million.
-
----
-
-## 2026-11-02 23:05 · Hacker News
-### [CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra](https://cloudopsbench.ai)
-A benchmark for AI agents on real cloud operationstableparetowaffleModel leaderboard. Select a row to view details.
-
----
-
-## 2026-11-02 22:41 · Hacker News
-### [Alphabet in talks to acquire assistant startup Howie AI](https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant)
-
----
-
-## 2026-11-02 22:27 · Hacker News
-### [The AI bubble could expose your deepest secrets](https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets)
-5 days agoThomas GermainBBC/ Serenity Strull/ Getty Images(Credit: BBC/ Serenity Strull/ Getty Images)Character.
-
----
-
-## 2026-11-02 22:14 · TechCrunch AI
-### [Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
-RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.
-
----
-
-## 2026-11-02 22:04 · Hacker News
-### [AI Voice Translator](https://github.com/UncleAndy/ai-translator)
-Synchronous speech and text translator with parallel delivery to arbitrary sinks.
-
----
-
-## 2026-11-02 22:01 · Hacker News
-### [Will AI Replace Engineers? I Ran the Experiment [video]](https://www.youtube.com/watch?v=K5gXc6kDgsE)
-
----
-
-## 2026-11-02 21:55 · Hacker News
-### [AI and Incidents with Sylvain Kalache [video]](https://www.arresteddevops.com/ai-and-incidents/)
-AI and Incidents with Sylvain Kalache [00:00:00] Matty: It’s time for Arrested DevOps, the podcast that helps you achieve understanding, develop good practices, and operate your team and organization…
-
----
-
-## 2026-11-02 21:53 · Hacker News
-### [AI models may not be so opaque after all](https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all)
-
----
-
-## 2026-11-02 21:34 · Hacker News
-### [AI × Hiring](https://worklabs.sh)
-In August and September 2026, we sat down with 30 recruiting and engineering leaders in New York and San Francisco to learn how AI is changing hiring. To everyone who spent time with us: thank you.
-
----
-
-## 2026-11-02 21:31 · Hacker News
-### [Lyngvi – A Hardened Sandbox for AI](https://lyngvi.skaperiet.no)
-v2.0.0 · MIT · macOS and Linux · Podman Give the agent your code.Not your machine. Lyngvi is a hardened, agent-agnostic sandbox for running autonomous coding agents against your own repositories.
-
----
-
-## 2026-11-02 21:23 · Hacker News
-### [Oracle taps investors for $20B to finance AI expansion](https://www.reuters.com/business/oracle-offer-10-billion-bonds-2026-11-02/)
-
----
-
-## 2026-11-02 21:01 · Hacker News
-### [Speeding up [building] planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
-October 31, 2026 Responsibility & SafetyOwen Larter and David ThackerPlanAssist has shown it can cut the time planning officers spend assessing householder applications by up to 58%.
-
----
-
-## 2026-11-02 20:54 · Hacker News
-### [LifeVal: Measuring AI progress on the tasks that matter in everyday life](https://openai.com/index/lifeval/)
-
----
-
-## 2026-11-02 20:43 · Hacker News
-### [Hercules Founder Brendan Falk on the AI Opportunity](https://www.codeship.com/articles/founders-room-brendan-falk-hercules)
-In the spring of 2020, most of the world was watching Tiger King and feeding sourdough starters.
-
----
-
-## 2026-11-02 20:34 · Hacker News
-### [Marvell doubles down on AI boom with costly $115B Lumentum deal](https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/)
-
----
-
-## 2026-11-02 20:21 · Hacker News
-### [AI evals for agents: what they are and how to write them](https://www.evalshift.dev/blog/ai-evals-for-agents)
-← all postsevals·Lukas Babaliauskas·Nov 2, 2026·12 min readAI evals are tests that grade what a model or agent did.
-
----
-
-## 2026-11-02 20:06 · Hacker News
-### [Bcbsa Analysis How AI Coding Tools Affect Healthcare Costs](https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs)
-
----
-
-## 2026-11-02 20:00 · Hacker News
-### [First Publicly Available Neuron-Derived AI Video Model](https://www.tbc.co/press-releases/neuron-derived-ai-video-model)
-SAN FRANCISCO | October 30, 2026 – The Biological Computing Co.
-
----
-
-## 2026-11-02 19:59 · Hacker News
-### [I Built the Most AI-Pilled Company in the World](https://x.com/jsnnsa/article/2115623382721126826)
-
----
-
-## 2026-11-02 19:58 · Hacker News
-### [Secure AI Agents with Hazmat Suits, Not Self-Defense Classes](https://infisical.com/blog/ai-agent-security-hazmat-suits)
-In securing AI agents, most organizations operate in one of two failure modes: Developers give AI agents access using .env files (or other plaintext credentials) and trust them to not wreak havoc.
-
----
-
-## 2026-11-02 19:25 · TechCrunch AI
-### [Web host Squarespace lays off 19% of its employees](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)
-The website builder said that the job losses are part of a broader restructuring of its organization.
-
----
-
-## 2026-11-02 19:19 · TechCrunch AI
-### [New York Times and other outlets sue web browser Brave over alleged content scraping](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/)
-The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe…
-
----
-
-## 2026-11-02 18:56 · The Verge AI
-### [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
-Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with…
-
----
-
-## 2026-11-02 18:01 · The Verge AI
-### [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)
-In an announcement on Monday, OpenAI says it will pilot its "Grid Protectors Program" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts…
-
----
-
-## 2026-11-02 17:51 · The Verge AI
-### [The New York Times sues Brave web browser for AI scraping and bypassing paywalls](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times)
-The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t…
-
----
-
-## 2026-11-02 16:30 · TechCrunch AI
-### [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
-Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?
-
----
-
-## 2026-11-02 16:23 · TechCrunch AI
-### [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
-Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."
-
----
-
-## 2026-11-02 15:00 · TechCrunch AI
-### [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)
-Two startups tackling the data center water problem are joining forces in a $16 million deal.
-
----
-
-## 2026-11-02 14:00 · TechCrunch AI
-### [2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big](https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/)
-TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.
-
----
-
-## 2026-11-02 13:57 · TechCrunch AI
-### [OpenAI is finally merging ChatGPT’s Chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)
-OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.
 
 ---
