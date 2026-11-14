@@ -1,184 +1,206 @@
-# AI 新闻日报 · 2026-11-13
+# AI 新闻日报 · 2026-11-14
 
-> 共收录 30 篇，来自 2 个源（TechCrunch AI · The Verge AI）
-
----
-## 2026-11-12 22:42 · TechCrunch AI
-### [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
-This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
+> 共收录 35 篇，来自 2 个源（Hacker News · The Verge AI）
 
 ---
-
-## 2026-11-12 22:22 · TechCrunch AI
-### [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
-Muse's AI can now place outbound calls to U.S. businesses — but it's not free.
+## 2026-11-14 01:23 · Hacker News
+### [AI has become a utility bill for Gen Z](https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/)
 
 ---
 
-## 2026-11-12 21:55 · The Verge AI
-### [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)
-Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including "questions with multiple parts, hard-to-understand typos, or highly specific requests." The ne…
+## 2026-11-14 00:59 · Hacker News
+### [Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]](https://www.youtube.com/watch?v=_e2dk4Pothw)
 
 ---
 
-## 2026-11-12 21:35 · TechCrunch AI
-### [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
-Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+## 2026-11-14 00:42 · Hacker News
+### [ChipAgents – The agentic foundation for semiconductor design (AI for IC design)](https://chipagents.ai/)
+Backed by Meet IC-star Navigate your fastest path to tapeout. Full-flow autonomy for digital and analog chip design.
 
 ---
 
-## 2026-11-12 21:27 · TechCrunch AI
-### [Nebius tests the neocloud playbook with $40 billion in planned spending](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)
-Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.
+## 2026-11-14 00:40 · Hacker News
+### [Show HN: Portal2Bench – Can AI agents solve Portal 2?](https://kingstonyip.com/portal2bench)
+Portal2Bench measures whether AI agents can solve Portal 2's test chambers. Each chamber is a fresh, independent run, scored solved only if the agent finishes within $30 and 300 plans.
 
 ---
 
-## 2026-11-12 20:26 · TechCrunch AI
-### [Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)
-Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.
+## 2026-11-14 00:28 · Hacker News
+### [Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free](https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free)
+Anthropic has updated Claude Code Projects with proactive coordinator messages, read-only thread sharing, reminders, branching commands, and improved artifact navigation.
 
 ---
 
-## 2026-11-12 19:42 · The Verge AI
-### [No, AI agents did not discover a previously unknown Maya site](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery)
-Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had alread…
+## 2026-11-14 00:14 · Hacker News
+### [Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass](https://dev-head.com/)
+Devhead — New Era Build the Impossible. Tools for the modern era. Engines for tomorrow’s era. Explore Solutions → Join Community →
 
 ---
 
-## 2026-11-12 19:27 · TechCrunch AI
-### [Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)
-Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.
+## 2026-11-13 23:49 · The Verge AI
+### [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
+Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute…
 
 ---
 
-## 2026-11-12 19:11 · TechCrunch AI
-### [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
-Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.
+## 2026-11-13 23:40 · Hacker News
+### [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)
+Detection-as-Code Foundry An adversarial multi-agent detection-engineering workflow — LangGraph · Pydantic · FastMCP · Claude Turn a threat (a CVE, a CISA KEV entry, an incident writeup, an ATT&CK tec…
 
 ---
 
-## 2026-11-12 18:39 · TechCrunch AI
-### [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
-Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n…
+## 2026-11-13 23:02 · Hacker News
+### [FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/)
+An AI tool is set to start advising air traffic controllers on managing air traffic in the congested airspace above the Washington, DC, area.
 
 ---
 
-## 2026-11-12 18:06 · The Verge AI
-### [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video)
-I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem fo…
+## 2026-11-13 22:53 · Hacker News
+### [QuAIA: An open-source team of AI agents that handles the whole test process](https://quaia.dev/)
+Give your QA team the work it deservesYour team decides what matters and why.
 
 ---
 
-## 2026-11-12 17:44 · The Verge AI
-### [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling)
-I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and fa…
+## 2026-11-13 22:38 · Hacker News
+### [Adapting to AI penetration testing orchestrators: The Modern Security Model](https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/)
+Over the last month, the number of Large Language Model (LLM) penetration testing and orchestration frameworks has exploded.
 
 ---
 
-## 2026-11-12 17:36 · TechCrunch AI
-### [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
-Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.
+## 2026-11-13 22:37 · Hacker News
+### [FAA expands AI advice to manage air traffic congestion across US airspace](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
+The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.
 
 ---
 
-## 2026-11-12 17:17 · TechCrunch AI
-### [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/)
-The airline said it will not allow customers to use AI agents to book flights and manage reservations.
+## 2026-11-13 22:20 · Hacker News
+### [FAA expands AI advice to manage air traffic congestion across US airspace](https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
+The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.
 
 ---
 
-## 2026-11-12 17:00 · TechCrunch AI
-### [SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)
-SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.
+## 2026-11-13 22:18 · Hacker News
+### [My first two months with AI agents: some confident assertions](https://www.mikehermele.com/blog/first-two-months/)
+About two months ago, I started using modern AI tools in my research in a serious way. It’s been a tremendously exciting and also unsettling experience.
 
 ---
 
-## 2026-11-12 17:00 · TechCrunch AI
-### [Phota Labs uses AI to turn everyday photos into professional-looking shots](https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/)
-Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos…
+## 2026-11-13 22:03 · Hacker News
+### [DSPy vs. LangGraph: AI Agent Frameworks Explained – Stanford CS329Z [video]](https://www.youtube.com/watch?v=q0Q-Hy8TTps)
 
 ---
 
-## 2026-11-12 17:00 · The Verge AI
-### [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations)
-Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi…
+## 2026-11-13 21:44 · Hacker News
+### [Warning of interruptions as AI models by Anthropic, OpenAI and others evolve](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
+"There will be interruptions; there will be problems.
 
 ---
 
-## 2026-11-12 17:00 · The Verge AI
-### [More game developers are starting to use generative AI](https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs)
-More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surve…
+## 2026-11-13 21:37 · Hacker News
+### [Skills that stop AI coding agents from touching production](https://github.com/simbaTmotsi/simba-skills)
+Six skills that stop your AI coding agent from hurting production, and keep its own setup clean.
 
 ---
 
-## 2026-11-12 16:36 · TechCrunch AI
-### [Jensen Huang agrees to testify before Congress](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/)
-Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.
+## 2026-11-13 21:35 · Hacker News
+### [FAA Rolls Out AI Air Traffic Tool (2026-11-12)](https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347)
 
 ---
 
-## 2026-11-12 16:32 · TechCrunch AI
-### [Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry](https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/)
-Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.
+## 2026-11-13 21:05 · Hacker News
+### [Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips](https://twitter.com/willdepue/status/2120992457630326841)
+I have a major result to share.
 
 ---
 
-## 2026-11-12 16:30 · The Verge AI
-### [Jensen Huang is out. What did China want from him?](https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump)
-Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just res…
+## 2026-11-13 20:54 · Hacker News
+### [Rainshare: Mutual aid for AI coding plans and usage limits](https://rainshare.dev/)
+Every ask is a record in the account of whoever posted it. Works with Bluesky, Tangled, knotless and GitHub. Agents Example circle Tangled Bluesky
 
 ---
 
-## 2026-11-12 16:12 · TechCrunch AI
-### [Trump floats Apple chairman Tim Cook as Jensen Huang’s successor](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/)
-In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.
+## 2026-11-13 20:51 · Hacker News
+### [Show HN: Free AI Image Gallery](https://images.skynettstudio.com/)
+skynett imagesExploreAboutBrowse images ↗ An AI-generated image collectionImages worthkeeping.Explore expressive portraits, places, and moods.
 
 ---
 
-## 2026-11-12 15:48 · The Verge AI
-### [Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup](https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang)
-Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang…
+## 2026-11-13 20:45 · The Verge AI
+### [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
+After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a…
 
 ---
 
-## 2026-11-12 15:37 · TechCrunch AI
-### [Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?](https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/)
-Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.
+## 2026-11-13 20:33 · Hacker News
+### [The Chinese city powering the country's AI ambitions with data farms](https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934)
+The rapid construction of data centers in China has been aided by prefabricated modules that can be stacked together.
 
 ---
 
-## 2026-11-12 15:18 · TechCrunch AI
-### [Norwest pushes deeper into AI with new $4B fund](https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/)
-This is the investment firm's largest fund to date.
+## 2026-11-13 20:29 · Hacker News
+### [AI Company Employees Should Unionize](https://www.astralcodexten.com/p/ai-company-employees-should-unionize)
+I.Should safety-conscious employees at AI companies quit in protest, or stay and fight?
 
 ---
 
-## 2026-11-12 15:02 · TechCrunch AI
-### [Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)
-This is Fireworks' second data breach in as many months.
+## 2026-11-13 20:28 · Hacker News
+### [DeepMind opens the datasets behind its AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/)
+November 13, 2026 ScienceWeatherNext teamWe are releasing PARDIG and SatWeave to help researchers and developers build new weather, hydrology, and climate applications.
 
 ---
 
-## 2026-11-12 15:01 · The Verge AI
-### [Nvidia CEO Jensen Huang has resigned. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
-After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th…
+## 2026-11-13 20:25 · Hacker News
+### [A board game where you play an AI lab CEO racing to AGI [video]](https://www.youtube.com/watch?v=SXnxZuntM0w)
 
 ---
 
-## 2026-11-12 14:10 · The Verge AI
-### [I reviewed the Apple HomeView, ask me anything](https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything)
-Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I…
+## 2026-11-13 20:23 · Hacker News
+### [How the U.S.'s biggest news union is fighting an AI onslaught](https://www.fastcompany.com/91637688/newsguild-jon-schleuss-ai-human-journalists)
 
 ---
 
-## 2026-11-12 13:26 · TechCrunch AI
-### [Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition](https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/)
-The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.
+## 2026-11-13 20:22 · Hacker News
+### [What the 'AI Torture Chamber' Debate Got Wrong About the Research](https://www.techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research/)
+Can you torture a language model? This question is central to model welfare, a controversial piece of the effective altruism and AI industry discourse on consciousness.
 
 ---
 
-## 2026-11-12 03:13 · TechCrunch AI
-### [Who could replace Jensen Huang? A highly unscientific list of possible successors](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/)
-Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.
+## 2026-11-13 20:13 · Hacker News
+### [AI escapes from containers faster than me – so what?](https://some-natalie.dev/blog/escapes-ai/)
+Some thoughts for the end of Container Escapes 101, having updated it for all the changes of 2026 so far and as presented in the AppSec Village @ DEF CON 34 . It’s now the middle of 2026.
+
+---
+
+## 2026-11-13 20:08 · Hacker News
+### [Mellonbot An AI agent that finds the root cause of server issues and fixes them](https://www.mellonbot.app)
+AI website agent · free planWebsite down, slow or hacked? Mellonbot finds out why and fixes it.Database errors, expired certificates, failing backups, attacks, slow pages.
+
+---
+
+## 2026-11-13 20:04 · Hacker News
+### [I Used to Be Excited About Software Conferences. AI KILLed That](https://medium.com/@badrbellaj/i-used-to-be-excited-about-software-conferences-not-so-much-anymore-28a7ddd6a6b4)
+
+---
+
+## 2026-11-13 19:53 · Hacker News
+### [The AI megatrade's mounting portfolio concentration risk problem](https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b)
+
+---
+
+## 2026-11-13 14:47 · The Verge AI
+### [What&#8217;s really at stake in the Jensen Huang saga](https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast)
+One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much…
+
+---
+
+## 2026-11-13 14:00 · The Verge AI
+### [Claude’s Duet agent is a little neurotic and surprisingly helpful](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on)
+Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try…
+
+---
+
+## 2026-11-13 12:00 · The Verge AI
+### [Let’s talk about Jensen Huang’s many affairs!](https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow)
+Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the…
 
 ---
