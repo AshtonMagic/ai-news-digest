@@ -1,206 +1,192 @@
-# AI 新闻日报 · 2026-11-14
+# AI 新闻日报 · 2026-11-15
 
-> 共收录 35 篇，来自 2 个源（Hacker News · The Verge AI）
-
----
-## 2026-11-14 01:23 · Hacker News
-### [AI has become a utility bill for Gen Z](https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/)
+> 共收录 32 篇，来自 2 个源（Hacker News · The Verge AI）
 
 ---
-
-## 2026-11-14 00:59 · Hacker News
-### [Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]](https://www.youtube.com/watch?v=_e2dk4Pothw)
+## 2026-11-15 00:34 · Hacker News
+### [Microsoft patent describes using idle gaming GPUs into paid AI training hardware](https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai)
+Microsoft proposes GPU-sharing network with payments to PC ownersMicrosoft has filed a patent describing a system that could allow PC gamers to earn money by sharing unused GPU processing power for AI…
 
 ---
 
-## 2026-11-14 00:42 · Hacker News
-### [ChipAgents – The agentic foundation for semiconductor design (AI for IC design)](https://chipagents.ai/)
-Backed by Meet IC-star Navigate your fastest path to tapeout. Full-flow autonomy for digital and analog chip design.
+## 2026-11-15 00:18 · Hacker News
+### [The AI revolution is leaving younger tech workers behind](https://twitter.com/KobeissiLetter/status/2121689817301819425)
+The AI revolution is leaving younger tech workers behind: US software developer employment among workers aged 22-25 has fallen -20% since November 2022, when ChatGPT was launched.
 
 ---
 
-## 2026-11-14 00:40 · Hacker News
-### [Show HN: Portal2Bench – Can AI agents solve Portal 2?](https://kingstonyip.com/portal2bench)
-Portal2Bench measures whether AI agents can solve Portal 2's test chambers. Each chamber is a fresh, independent run, scored solved only if the agent finishes within $30 and 300 plans.
+## 2026-11-14 23:53 · Hacker News
+### [Ask HN: Is post-training make AI models dumber?](https://news.ycombinator.com/item?id=50502344)
 
 ---
 
-## 2026-11-14 00:28 · Hacker News
-### [Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free](https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free)
-Anthropic has updated Claude Code Projects with proactive coordinator messages, read-only thread sharing, reminders, branching commands, and improved artifact navigation.
+## 2026-11-14 23:48 · Hacker News
+### [Bing is the anti-AI search engine you should be using](https://www.pcworld.com/article/3115405/bing-is-the-anti-ai-search-engine-you-should-be-using.html)
+When you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence.
 
 ---
 
-## 2026-11-14 00:14 · Hacker News
-### [Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass](https://dev-head.com/)
-Devhead — New Era Build the Impossible. Tools for the modern era. Engines for tomorrow’s era. Explore Solutions → Join Community →
+## 2026-11-14 23:23 · Hacker News
+### [Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards](https://www.pcmag.com/news/microsoft-patent-describes-using-your-idle-gaming-pc-to-train-ai)
+Microsoft is seeking to patent technology that uses idle gaming PCs to train AI models in exchange for some form of digital currency.
 
 ---
 
-## 2026-11-13 23:49 · The Verge AI
-### [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
-Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute…
+## 2026-11-14 23:18 · Hacker News
+### [AI submissions cause end of game coding contest](https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/)
+(Image credit: EvgeniyShkolenko via Getty Images) The Australian STEM Videogame Challenge, a "free national videogame development competition for students," has confirmed that the rise of generative A…
 
 ---
 
-## 2026-11-13 23:40 · Hacker News
-### [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)
-Detection-as-Code Foundry An adversarial multi-agent detection-engineering workflow — LangGraph · Pydantic · FastMCP · Claude Turn a threat (a CVE, a CISA KEV entry, an incident writeup, an ATT&CK tec…
+## 2026-11-14 23:15 · Hacker News
+### [Show HN: Daily puzzles to keep AI users sharp](https://brainsaver.app)
+BrainsaverQuick daily puzzles for AI users00-day streak. Play today to keep it goingPunctuationChoose the punctuation that fits the meaning.Question 1 of 5Which sentence means this?
 
 ---
 
-## 2026-11-13 23:02 · Hacker News
-### [FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/)
-An AI tool is set to start advising air traffic controllers on managing air traffic in the congested airspace above the Washington, DC, area.
+## 2026-11-14 23:12 · Hacker News
+### [Toward a future space-based, highly scalable AI infrastructure system design](https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4)
 
 ---
 
-## 2026-11-13 22:53 · Hacker News
-### [QuAIA: An open-source team of AI agents that handles the whole test process](https://quaia.dev/)
-Give your QA team the work it deservesYour team decides what matters and why.
+## 2026-11-14 23:05 · Hacker News
+### [The AI graveyard: A running list of projects and startups that didn't make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+Last month, chatbot platform Character.ai filed for bankruptcy just five years after launching. More recently, privacy-focused AI assistant Ollie announced its shutdown a few weeks ago.
 
 ---
 
-## 2026-11-13 22:38 · Hacker News
-### [Adapting to AI penetration testing orchestrators: The Modern Security Model](https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/)
-Over the last month, the number of Large Language Model (LLM) penetration testing and orchestration frameworks has exploded.
+## 2026-11-14 22:34 · Hacker News
+### [AI Quest – Interactive sandboxes for agentic web apps](https://ai-quest.dev/)
 
 ---
 
-## 2026-11-13 22:37 · Hacker News
+## 2026-11-14 21:36 · Hacker News
+### [Competition in Generative AI: Evidence from Consumer Demand](https://www.nber.org/papers/w35953)
+How competitive will the market for generative AI be as it matures?
+
+---
+
+## 2026-11-14 21:35 · Hacker News
+### [See and revoke what your AI coding agents can access](https://github.com/dirmedmr-alt/ai-access-auditor)
+See everything your AI coding agents can access on your computer, and take any of it back.
+
+---
+
+## 2026-11-14 21:22 · Hacker News
+### [From AI ambition to business impact](https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/)
+Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots.
+
+---
+
+## 2026-11-14 21:21 · Hacker News
+### [New Research Tests Whether AI Models Know Their Own Thoughts](https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/)
+By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. What’s on your mind right now?
+
+---
+
+## 2026-11-14 20:58 · Hacker News
 ### [FAA expands AI advice to manage air traffic congestion across US airspace](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
 The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.
 
 ---
 
-## 2026-11-13 22:20 · Hacker News
-### [FAA expands AI advice to manage air traffic congestion across US airspace](https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
-The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.
+## 2026-11-14 20:46 · Hacker News
+### [The Collision: What AI Does to Us](https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us)
+Eric So believes that people who use artificial intelligence fall into one of two groups: those who use the technology to think better, and those who use AI instead of thinking.
 
 ---
 
-## 2026-11-13 22:18 · Hacker News
-### [My first two months with AI agents: some confident assertions](https://www.mikehermele.com/blog/first-two-months/)
-About two months ago, I started using modern AI tools in my research in a serious way. It’s been a tremendously exciting and also unsettling experience.
+## 2026-11-14 20:38 · Hacker News
+### [0rwx: A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
+INTRODUCTION We need new language to talk about large language models. 0rwx is my attempt. A labelling system is vital for domain experts to talk about AI in a clear way.
 
 ---
 
-## 2026-11-13 22:03 · Hacker News
-### [DSPy vs. LangGraph: AI Agent Frameworks Explained – Stanford CS329Z [video]](https://www.youtube.com/watch?v=q0Q-Hy8TTps)
+## 2026-11-14 20:35 · Hacker News
+### [FAA's Smart AI System Now Active at All 22 ARTCCs [Nov 10]](https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/)
+Home/News/FAA’s SMART AI System Now Active at All 22 ARTCCs Agency says system has helped reroute 180 flights, saving average of 10 minutes and almost 80 gallons of fuel per trip.
 
 ---
 
-## 2026-11-13 21:44 · Hacker News
-### [Warning of interruptions as AI models by Anthropic, OpenAI and others evolve](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
-"There will be interruptions; there will be problems.
+## 2026-11-14 20:26 · Hacker News
+### [What I Learned Using AI When My Brother Got Sick](https://www.getmakingthings.com/thoughts/ai-and-health/)
+In 2025 my brother had a seizure.Everything after that happened fast. The doctors ordered an MRI and a PET scan.
 
 ---
 
-## 2026-11-13 21:37 · Hacker News
-### [Skills that stop AI coding agents from touching production](https://github.com/simbaTmotsi/simba-skills)
-Six skills that stop your AI coding agent from hurting production, and keep its own setup clean.
-
----
-
-## 2026-11-13 21:35 · Hacker News
-### [FAA Rolls Out AI Air Traffic Tool (2026-11-12)](https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347)
-
----
-
-## 2026-11-13 21:05 · Hacker News
-### [Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips](https://twitter.com/willdepue/status/2120992457630326841)
-I have a major result to share.
-
----
-
-## 2026-11-13 20:54 · Hacker News
-### [Rainshare: Mutual aid for AI coding plans and usage limits](https://rainshare.dev/)
-Every ask is a record in the account of whoever posted it. Works with Bluesky, Tangled, knotless and GitHub. Agents Example circle Tangled Bluesky
-
----
-
-## 2026-11-13 20:51 · Hacker News
-### [Show HN: Free AI Image Gallery](https://images.skynettstudio.com/)
-skynett imagesExploreAboutBrowse images ↗ An AI-generated image collectionImages worthkeeping.Explore expressive portraits, places, and moods.
-
----
-
-## 2026-11-13 20:45 · The Verge AI
-### [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
-After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a…
-
----
-
-## 2026-11-13 20:33 · Hacker News
-### [The Chinese city powering the country's AI ambitions with data farms](https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934)
-The rapid construction of data centers in China has been aided by prefabricated modules that can be stacked together.
-
----
-
-## 2026-11-13 20:29 · Hacker News
+## 2026-11-14 19:47 · Hacker News
 ### [AI Company Employees Should Unionize](https://www.astralcodexten.com/p/ai-company-employees-should-unionize)
 I.Should safety-conscious employees at AI companies quit in protest, or stay and fight?
 
 ---
 
-## 2026-11-13 20:28 · Hacker News
-### [DeepMind opens the datasets behind its AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/)
-November 13, 2026 ScienceWeatherNext teamWe are releasing PARDIG and SatWeave to help researchers and developers build new weather, hydrology, and climate applications.
+## 2026-11-14 19:42 · Hacker News
+### [WhatWeRun, a database of real production AI agent stacks](https://whatwerun.dev)
+x.comBkper's AI gateway, app-building agent and Gemini Flash parsers (X)An AI-first bookkeeping platform.
 
 ---
 
-## 2026-11-13 20:25 · Hacker News
-### [A board game where you play an AI lab CEO racing to AGI [video]](https://www.youtube.com/watch?v=SXnxZuntM0w)
+## 2026-11-14 19:33 · Hacker News
+### [Wojak-Bench 3D: Which AI is best at 3D printing?](https://wojak-bench.dev.pion.dev/)
+names are hidden until you vote. one vote per browser per pair. leaderboard #modelratingwin sharew/t/lvotes1Claude Fable 5.2126076%74/10/201042GPT-6 Astra112148%47/11/511093Claude Sonnet 5.
 
 ---
 
-## 2026-11-13 20:23 · Hacker News
-### [How the U.S.'s biggest news union is fighting an AI onslaught](https://www.fastcompany.com/91637688/newsguild-jon-schleuss-ai-human-journalists)
+## 2026-11-14 19:17 · Hacker News
+### [Show HN: Smart Node, a self-hosted crew of AI agents for a small business](https://github.com/dklymentiev/smart-node)
+smart-node.app · by Dmytro Klymentiev (GitHub) Smart Node installs a self-hosted AI node: one machine you control, running an AI assistant together with the pieces it needs to be useful.
 
 ---
 
-## 2026-11-13 20:22 · Hacker News
-### [What the 'AI Torture Chamber' Debate Got Wrong About the Research](https://www.techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research/)
-Can you torture a language model? This question is central to model welfare, a controversial piece of the effective altruism and AI industry discourse on consciousness.
+## 2026-11-14 19:04 · Hacker News
+### [Tactical Team Changes from AI](https://staysaasy.com/tactical-team-changes-from-ai/)
+One thing that we love to do at Stay SaaSy is provide very direct specifics on what we would do or how we would think about problems.
 
 ---
 
-## 2026-11-13 20:13 · Hacker News
-### [AI escapes from containers faster than me – so what?](https://some-natalie.dev/blog/escapes-ai/)
-Some thoughts for the end of Container Escapes 101, having updated it for all the changes of 2026 so far and as presented in the AppSec Village @ DEF CON 34 . It’s now the middle of 2026.
+## 2026-11-14 19:01 · Hacker News
+### [Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant](https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1/)
+Pixelated empathy for an overworked vision model I was recently rummaging through a storage closet, when I discovered a box I didn't recognize.
 
 ---
 
-## 2026-11-13 20:08 · Hacker News
-### [Mellonbot An AI agent that finds the root cause of server issues and fixes them](https://www.mellonbot.app)
-AI website agent · free planWebsite down, slow or hacked? Mellonbot finds out why and fixes it.Database errors, expired certificates, failing backups, attacks, slow pages.
+## 2026-11-14 18:53 · Hacker News
+### [An update on AI's most important number](https://epochai.substack.com/p/an-update-on-ais-most-important-number)
 
 ---
 
-## 2026-11-13 20:04 · Hacker News
-### [I Used to Be Excited About Software Conferences. AI KILLed That](https://medium.com/@badrbellaj/i-used-to-be-excited-about-software-conferences-not-so-much-anymore-28a7ddd6a6b4)
+## 2026-11-14 18:47 · Hacker News
+### [Thousands turn out in Edinburgh to protest against AI data centres](https://www.bbc.co.uk/news/articles/c8n50w445zgpo)
+Image source, Press AssociationImage caption, Protesters marched down the Royal Mile towards the Scottish Parliament ByMary McCoolBBC Scotland NewsThousands of people have joined a protest in Edinburg…
 
 ---
 
-## 2026-11-13 19:53 · Hacker News
-### [The AI megatrade's mounting portfolio concentration risk problem](https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b)
+## 2026-11-14 18:33 · Hacker News
+### [AI School Bus Cameras Cash in on Drivers Who Fail to Stop](https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html)
+Serving tech enthusiasts for over 25 years. TechSpot means tech analysis and advice you can trust.
 
 ---
 
-## 2026-11-13 14:47 · The Verge AI
-### [What&#8217;s really at stake in the Jensen Huang saga](https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast)
-One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much…
+## 2026-11-14 18:32 · Hacker News
+### [Show HN: AI Time Estimator – how long Claude Code will take, from your own logs](https://github.com/noambrand/ai-time-estimator)
+Ask Claude Code how long a task will take, and get an answer in its own working minutes, measured on your machine.
 
 ---
 
-## 2026-11-13 14:00 · The Verge AI
-### [Claude’s Duet agent is a little neurotic and surprisingly helpful](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on)
-Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try…
+## 2026-11-14 18:31 · Hacker News
+### [How AI can achieve human-level intelligence: researchers call for change in tack](https://www.nature.com/articles/d41586-025-00649-4)
+NEWS 04 March 2025 A survey finds that most respondents are sceptical that the technology underpinning large-language models is sufficient for artificial general intelligence.
 
 ---
 
-## 2026-11-13 12:00 · The Verge AI
-### [Let’s talk about Jensen Huang’s many affairs!](https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow)
-Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the…
+## 2026-11-14 15:00 · The Verge AI
+### [The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
+Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hele…
+
+---
+
+## 2026-11-14 12:00 · The Verge AI
+### [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
+On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packe…
 
 ---
