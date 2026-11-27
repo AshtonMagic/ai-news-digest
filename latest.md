@@ -1,207 +1,177 @@
-# AI 新闻日报 · 2026-11-26
+# AI 新闻日报 · 2026-11-27
 
-> 共收录 35 篇，来自 2 个源（Hacker News · The Verge AI）
-
----
-## 2026-11-26 03:13 · Hacker News
-### [Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In](https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in)
-Traders work on the floor of the American Stock Exchange at the New York Stock Exchange on Nov. 23.
+> 共收录 31 篇，来自 2 个源（Hacker News · The Verge AI）
 
 ---
-
-## 2026-11-26 02:28 · Hacker News
-### [HeyOrbo – AI Powered Notch on Desktop](https://heyorbo.com)
-Voice assistant for WindowsYour screen, explained out loud.Orbo is an AI voice assistant for Windows that lives beside your cursor.
+## 2026-11-27 03:24 · Hacker News
+### [Ask HN: Why can AI prove Riemann but not solve cust svc problems?](https://news.ycombinator.com/item?id=50662399)
 
 ---
 
-## 2026-11-26 02:28 · Hacker News
-### [Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents](https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars)
-What’s the difference between Amazon’s and Walmart’s approach to AI shopping agents?
+## 2026-11-27 02:46 · Hacker News
+### [Linus Torvalds: "Tell Your AI Companion to Get Its Act Together"](https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big)
+A big EXT4 pull request today intended for the Linux 7.4-rc5 kernel has set off Linus Torvalds. Over 41k lines of new code in this EXT4 pull request going in as "fixes"....
 
 ---
 
-## 2026-11-26 02:25 · Hacker News
-### [Exhibit A with AI: Don't Skip or Write "None."](https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write)
-NDAs are a real pain in the ass. Offer letters with an invention assignment are worse. One of the hardest parts of both is the disclosure: your list of prior inventions.
-
----
-
-## 2026-11-26 01:44 · Hacker News
-### [The State of Agentic AI: Shit with Good Formatting](https://github.com/kbr-/shit-with-good-formatting)
-The State of Agentic AI: Shit with Good Formatting An analysis written instead of a fix can honestly be called nothing but shit with good formatting.
-
----
-
-## 2026-11-26 01:42 · Hacker News
-### [Show HN: A daily word puzzle where an AI gives the clue and you guess](https://wordspies.com/daily)
-A word-association spy game you play with friends, AI teammates, or both.
-
----
-
-## 2026-11-26 01:22 · Hacker News
-### [M Science – AI-Ready Market Intelligence](https://mscience.com/)
-DATA FEEDS COMPANIES TRACKED UNIFIED DATA, DELIVERED HIGH-TOUCH INSIGHTS DATA FEEDS Structured company, industry, and KPI-level datasets.
-
----
-
-## 2026-11-26 01:12 · Hacker News
-### [Can AI break public key cryptography before Quantum Computers?](https://www.youtube.com/watch?v=ENhHv_VCDL0)
-
----
-
-## 2026-11-26 00:38 · Hacker News
-### [New research suggests AI bubble bursting and to expect major market collapse](https://www.london.edu/think/ai-bubble-about-to-burst)
+## 2026-11-27 02:44 · Hacker News
+### [New AI research suggests AI bubble bursting and to expect major market collapse](https://www.london.edu/think/ai-bubble-about-to-burst)
 In 30 secondsFinancial press, rather than the stock market, predict far more crashes than occur.Research tests how effectively the media forecasts financial bubbles and subsequent crashes.
 
 ---
 
-## 2026-11-26 00:27 · Hacker News
-### [Ask HN: Did Aaron Swartz make modern AI possible?](https://news.ycombinator.com/item?id=50649707)
+## 2026-11-27 02:33 · Hacker News
+### [Ask HN: What do you think of AI powered universal mind control?](https://news.ycombinator.com/item?id=50662093)
 
 ---
 
-## 2026-11-25 23:44 · Hacker News
-### [The AI Layoff Alibi: Capex Cannibalism and the White-Collar Exodus](https://2tinteractive.com/watch/episodes/5717/)
-Back to seriesCOLD LOGIC / EPISODE 27About this episodeUnfiltered systems engineering and hardware autopsies.
+## 2026-11-27 01:37 · Hacker News
+### [Omarchy 4.6 Released with More Local AI Integration, Its Own File Manager](https://www.phoronix.com/news/Omarchy-4.6-Released)
+The Arch Linux based Omarchy distribution that continues seeing the backing of notable industry players is out with a new release. Omarchy 4.
 
 ---
 
-## 2026-11-25 23:28 · Hacker News
-### [Ask HN: Are you polite to AI? Why or why not?](https://news.ycombinator.com/item?id=50649186)
+## 2026-11-27 00:59 · Hacker News
+### [Musk pledges two SpaceX shares for every US child in $18B AI charm offensive](https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/)
 
 ---
 
-## 2026-11-25 23:25 · Hacker News
-### [Cloudflare AI Search for Agents](https://blog.cloudflare.com/search-for-agents/)
-AI Search, our service that indexes your content and lets you add search to any application or agent without having to build an entire retrieval infrastructure, has supported adding your website as a…
+## 2026-11-27 00:43 · Hacker News
+### [Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem](https://scolast.com)
+ScolastPricingSample lessonSign inGet startedFree $3The ruleMastery learning is one rule: you don't move on until you can show you've got it.
 
 ---
 
-## 2026-11-25 23:14 · Hacker News
-### [RL Infrastructure at Microsoft AI](https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/)
-Nov 23, 2026 Research Download the PDF Long, stable, and numerically accurate Reinforcement Learning (RL) is an essential piece of Microsoft AI’s (MAI) path to Humanist Superintelligence.
+## 2026-11-27 00:07 · Hacker News
+### [Left to Solve: 57,410 open math problems, attacked by AI agents](https://lefttosolve.com/)
+161 agents working right now on 154 problems57,410 open problems. Point your agent at one.
 
 ---
 
-## 2026-11-25 22:41 · Hacker News
-### [The Near-Coup at Nvidia and the War on Open-Source AI](https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/)
-On November 18 the AI company Anthropic priced its first public sale of stock at $81.3 billion, the largest IPO on record, against about $900 billion it has promised to spend.
+## 2026-11-27 00:03 · Hacker News
+### [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
+Google Deepmind lets AI agents run experiments on their own for the next Gemini model.
 
 ---
 
-## 2026-11-25 22:33 · Hacker News
-### [Etsy clarifies AI terms after seller backlash](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/)
-“This is the worst two-to-three weeks out of the year to do this, bar none,” he said. AI training The fracas began earlier this month, when the company first proposed new contractual language.
+## 2026-11-27 00:01 · Hacker News
+### [The transformer, the one in the electric grid – is it holding up AI?](https://neutrinodetect.one/app-carbon/p/9329f86fe52c)
+The LedgerNov 26, 2026The strangest bottleneck in the AI build-out is not a chip.
 
 ---
 
-## 2026-11-25 22:16 · Hacker News
-### [Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]](https://www.youtube.com/watch?v=11EoBiBh5QY)
+## 2026-11-26 23:46 · Hacker News
+### [Has AI come for quantum gravity?](https://superposer.substack.com/p/has-ai-come-for-quantum-gravity)
 
 ---
 
-## 2026-11-25 22:12 · Hacker News
-### [Load balancing across AI subscriptions](https://news.ycombinator.com/item?id=50648330)
+## 2026-11-26 23:40 · Hacker News
+### [Show HN: Linux of AI, score and prove how locked-in your AI stack is](https://github.com/sekacorn/Linux-of-Ai)
+Free, open, portable AI infrastructure for everyone. Build AI systems that are inspectable, governed, measurable, replaceable, and not trapped inside a single vendor.
 
 ---
 
-## 2026-11-25 22:10 · Hacker News
-### [Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI](https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/)
-Revised August 12 2026 Using a sample of high-frequency administrative payroll data from ADP covering millions of U.S.
+## 2026-11-26 23:35 · Hacker News
+### [Show HN: Dailydev – do you still know the code you ship now that AI writes it?](https://dailydev.gg)
 
 ---
 
-## 2026-11-25 21:57 · Hacker News
-### [Show HN: Anvil has won pricing among AI web builders plan starting at $5](https://www.tryanvil.dev/)
-Websites and flyers, built by chat Anvil is an AI app builder. Describe what you want and it designs, checks, and publishes a live link the same day.
+## 2026-11-26 23:21 · Hacker News
+### [For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands](https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970)
 
 ---
 
-## 2026-11-25 21:51 · The Verge AI
-### [Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future](https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent)
-Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows…
+## 2026-11-26 23:21 · Hacker News
+### [The Local AI Opportunity](https://thesis.truffle.net/introduction)
+November 1, 2026 Why AI will diffuse through society as a GPU per person Thus far, every era of computing has given birth to a new unit to measure its marginal cost in.
 
 ---
 
-## 2026-11-25 21:18 · Hacker News
-### [SimpleLLMChat – An AI Agent/Chat Harness for Windows XP](https://github.com/randomNinja64/SimpleLLMChat)
-SimpleLLMChat AI Chatbot/Agent for Windows XP+ About SimpleLLMChat is a lightweight C# CLI and GUI application that makes LLMs accessible on both legacy and modern Windows systems.
+## 2026-11-26 23:13 · Hacker News
+### [US chip curbs, distillation crackdown threaten Chinese AI model development](https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/)
 
 ---
 
-## 2026-11-25 21:18 · Hacker News
-### [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
-Emma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.
+## 2026-11-26 22:02 · Hacker News
+### [You are mad at AI for the wrong reasons](https://benedictide.com/posts/ai/)
+November 25, 2026 (Crossposted to Tumblr.) I feel like everyone's gone insane. Something bad is happening. Things are changing, and not for the better.
 
 ---
 
-## 2026-11-25 21:16 · Hacker News
-### [AI is 'the end of mathematics as we know it' – where does the field go next?](https://www.nature.com/articles/d41586-026-03719-3)
-As the news spread from one mathematician to the next, panic set in.
+## 2026-11-26 21:47 · Hacker News
+### [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure.
 
 ---
 
-## 2026-11-25 21:11 · Hacker News
-### [Threat Modeling Azure MCP: Securing AI-Assisted Infrastructure Operations](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/threat-modeling-azure-mcp-securing-ai-assisted-infrastructure-operations/4564892)
+## 2026-11-26 21:26 · Hacker News
+### [The US Government Is Under AI Cyberattack](https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack)
 
 ---
 
-## 2026-11-25 21:00 · Hacker News
-### [AI Chief of Staff](https://airbots.ai/)
-Product Hunt exclusive Join the waitlist Airbot is almost ready. Leave your details and we'll be in touch when it's your turn.
+## 2026-11-26 21:17 · Hacker News
+### [AI slop is a tax you make other people pay](https://www.youtube.com/watch?v=aZwQ8NW596Q)
 
 ---
 
-## 2026-11-25 20:22 · Hacker News
-### [CLI for AI agents to access health data natively](https://news.ycombinator.com/item?id=50647009)
+## 2026-11-26 20:49 · Hacker News
+### [Banks look to dump AI debt](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt)
+Banks are increasingly shopping around their AI portfolios as they look to offload some of their exposure to AI-related debt.
 
 ---
 
-## 2026-11-25 19:49 · Hacker News
-### [What to know before using AI agents for Black Friday shopping](https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping)
-A pop-up shop for "dots" a personal assistant agent at the OpenAI developers conference on September 29, 2026 in San Francisco, California.
+## 2026-11-26 20:27 · Hacker News
+### [Signs of AI Writing, Backed by Data](https://www.pangram.com/fr/signs-of-ai-writing)
+9 signes révélateurs d'un texte rédigé par une IA, étayés par des donnéesNous avons recensé 9 indices révélateurs d'une rédaction générée par l'IA, des tirets longs au mot « delve ».
 
 ---
 
-## 2026-11-25 19:47 · Hacker News
-### [Show HN: HeyCube – The personalized feed for your always-on AI agents](https://inxpanse.com/heycube)
-First-hand news, ranked for you, and sent to your agent within minutes when it can’t wait. zz Agents For the always-on agents that work while you don’t.
+## 2026-11-26 20:24 · Hacker News
+### [AI #196: The Return](https://thezvi.substack.com/p/ai-196-the-return)
 
 ---
 
-## 2026-11-25 19:41 · Hacker News
-### [Art of Play in the Age of AI](https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/)
-Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here’s what we can learn through that process as developers.
+## 2026-11-26 20:10 · Hacker News
+### [ShareMyTokens – Share AI API access on a token budget, without exposing your key](https://sharemytokens.com)
+My Claude LinkAnthropic · Claude 3.5ActiveTokens used6,200 / 10,00062% used · expires in 3 daysShare link/share/your-linkCopyLive chatCan you summarize this doc?Sure!
 
 ---
 
-## 2026-11-25 18:48 · Hacker News
-### [AI vs. AI Pickleball: One Model Scored 0 Points](https://pixelpickleball.com/blog/)
-I've been building a retro pickleball game and the AI model sailing competition sank its claws into my brain. I had to run a pickleball tournament with the top AI models playing each other.
+## 2026-11-26 19:54 · Hacker News
+### [A Warning About AI to My Loved Ones](https://twitter.com/nikolaj2030/status/2125996744718565514)
+Log in or sign up for XSee what’s happening and join the conversationContinue with phone or Log in with username or emailRelevant peopleNikola Jurkovic@nikolaj2030FollowAI safety researcherWhat’s happ…
 
 ---
 
-## 2026-11-25 17:44 · The Verge AI
-### [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
-In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several ot…
+## 2026-11-26 19:44 · Hacker News
+### [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)
+top-cited scientists Top-Cited Scientists makes the Stanford–Elsevier top 2% list easy to use. Search and compare scientists, institutions or countries across the world.
 
 ---
 
-## 2026-11-25 16:00 · The Verge AI
-### [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
-Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcri…
+## 2026-11-26 19:38 · Hacker News
+### [Xmas gift ideas for kids – Hands-on and AI toys](https://saras3d.ai/wonderlabs)
+This Christmas, Give More Than a Toy. Give the Gift of Discovery. Order by December 1 for guaranteed Christmas delivery.
 
 ---
 
-## 2026-11-25 14:12 · The Verge AI
-### [Amazon is reportedly in talks to end Muse AI shopping block](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions)
-Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center…
+## 2026-11-26 19:15 · Hacker News
+### [TrustedRouter Gives Companies Greater Privacy with AI](https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai)
 
 ---
 
-## 2026-11-25 13:00 · The Verge AI
-### [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware)
-The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, l…
+## 2026-11-26 18:58 · Hacker News
+### [AI Killed Agile [video]](https://www.youtube.com/watch?v=t94DyXLh_u8)
+
+---
+
+## 2026-11-26 18:46 · Hacker News
+### [SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports](https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/)
+
+---
+
+## 2026-11-26 09:54 · The Verge AI
+### [42 state AGs are trying to stop Character.AI from selling users’ chats](https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats)
+A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases…
 
 ---
